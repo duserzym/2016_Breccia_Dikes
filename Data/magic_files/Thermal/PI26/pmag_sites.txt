@@ -1,0 +1,4 @@
+tab 	pmag_sites
+er_analyst_mail_names	er_citation_names	er_location_name	er_site_name	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	site_alpha95	site_comp_name	site_dec	site_description	site_inc	site_inferred_age	site_inferred_age_sigma	site_inferred_age_unit	site_k	site_n	site_n_lines	site_n_planes	site_polarity	site_r	site_tilt_correction
+	This study	unknown	PI26	PI26-1b:PI26-2b:PI26-3b:PI26-4b:PI26-5b:PI26-6b:PI26-7b:PI26-8b:PI26-9b	LP-DIR-T:DE-BFL:DA-DIR-GEO:LP-DC4:DE-FM	pmagpy-3.4.0	ACCEPT	6.2	LT	20.5	Site direction included in results table	68.8	9.9809e+02	9.9809e+02	Years Cal BP	70	9	9	0		8.8852	0
+	This study	unknown	PI26	PI26-1b:PI26-2b:PI26-3b:PI26-4b:PI26-5b:PI26-6b:PI26-7b:PI26-8b:PI26-9b	LP-DIR-T:DE-BFL:DA-DIR-GEO:LP-DC4:DE-FM	pmagpy-3.4.0	ACCEPT	5.1	HT	83.2	Site direction included in results table	52.5	9.9809e+02	9.9809e+02	Years Cal BP	103	9	9	0		8.9220	0

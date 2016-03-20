@@ -1,0 +1,19 @@
+tab 	er_samples
+er_citation_names	er_location_name	er_sample_name	er_site_name	magic_method_codes	sample_azimuth	sample_bed_dip	sample_bed_dip_direction	sample_class	sample_declination_correction	sample_dip	sample_height	sample_lithology	sample_type
+This study	unknown	PI22H-16	PI22H	SO-CMD-NORTH	-55.7	0.0	90.0		0.0	-65.0	0
+This study	unknown	PI22H-17	PI22H	SO-CMD-NORTH	-26.3	0.0	90.0		0.0	-99.0	0
+This study	unknown	PI22H-18	PI22H	SO-CMD-NORTH	-22.0	0.0	90.0		0.0	-50.0	0
+This study	unknown	PI22H-19	PI22H	SO-CMD-NORTH	-50.1	0.0	90.0		0.0	-24.0	0
+This study	unknown	PI22H-20	PI22H	SO-CMD-NORTH	18.6	0.0	90.0		0.0	-70.0	0
+This study	unknown	PI22H-21	PI22H	SO-CMD-NORTH	-52.5	0.0	90.0		0.0	-37.0	0
+This study	unknown	PI22H-22	PI22H	SO-CMD-NORTH	264.4	0.0	90.0		0.0	-26.0	0
+This study	unknown	PI22H-23	PI22H	SO-CMD-NORTH	232.4	0.0	90.0		0.0	-22.0	0
+This study	unknown	PI22H-24	PI22H	SO-CMD-NORTH	100.8	0.0	90.0		0.0	-24.0	0
+This study	unknown	PI22H-25	PI22H	SO-CMD-NORTH	234.8	0.0	90.0		0.0	-35.0	0
+This study	unknown	PI22H-26	PI22H	SO-CMD-NORTH	-81.8	0.0	90.0		0.0	-25.0	0
+This study	unknown	PI22H-27	PI22H	SO-CMD-NORTH	174.1	0.0	90.0		0.0	-39.0	0
+This study	unknown	PI22H-28	PI22H	SO-CMD-NORTH	167.1	0.0	90.0		0.0	-64.0	0
+This study	unknown	PI22H-29	PI22H	SO-CMD-NORTH	163.1	0.0	90.0		0.0	-56.0	0
+This study	unknown	PI22H-30	PI22H	SO-CMD-NORTH	-16.2	0.0	90.0		0.0	-43.0	0
+This study	unknown	PI22H-31	PI22H	SO-CMD-NORTH	-6.9	0.0	90.0		0.0	-38.0	0
+This study	unknown	PI22H-32	PI22H	SO-CMD-NORTH	-25.9	0.0	90.0		0.0	-78.0	0

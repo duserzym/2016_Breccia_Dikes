@@ -1,0 +1,8 @@
+tab 	er_specimens
+er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	unknown	PI16H-25	PI16H	PI16H-25a		1.000e-03
+This study	unknown	PI16H-26	PI16H	PI16H-26a		1.000e-03
+This study	unknown	PI16H-27	PI16H	PI16H-27a		1.000e-03
+This study	unknown	PI16H-28	PI16H	PI16H-28a		1.000e-03
+This study	unknown	PI16H-29	PI16H	PI16H-29a		1.000e-03
+This study	unknown	PI16H-30	PI16H	PI16H-30a		1.000e-03

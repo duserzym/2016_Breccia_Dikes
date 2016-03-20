@@ -1,0 +1,8 @@
+tab 	er_specimens
+er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	Slate Islands	PI24m-9	PI24m	PI24m-9b		1.000e-03
+This study	Slate Islands	PI24m-10	PI24m	PI24m-10b		1.000e-03
+This study	Slate Islands	PI24m-11	PI24m	PI24m-11b		1.000e-03
+This study	Slate Islands	PI24m-12	PI24m	PI24m-12b		1.000e-03
+This study	Slate Islands	PI24m-13	PI24m	PI24m-13b		1.000e-03
+This study	Slate Islands	PI24m-14	PI24m	PI24m-14b		1.000e-03

@@ -1,0 +1,14 @@
+tab 	er_specimens
+er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	unknown	PI44-1	PI44	PI44-1b		1.000e-03
+This study	unknown	PI44-2	PI44	PI44-2b		1.000e-03
+This study	unknown	PI44-3	PI44	PI44-3b		1.000e-03
+This study	unknown	PI44-4	PI44	PI44-4b		1.000e-03
+This study	unknown	PI44-5	PI44	PI44-5b		1.000e-03
+This study	unknown	PI44-6	PI44	PI44-6b		1.000e-03
+This study	unknown	PI44-7	PI44	PI44-7b		1.000e-03
+This study	unknown	PI44-8	PI44	PI44-8b		1.000e-03
+This study	unknown	PI44-9	PI44	PI44-9b		1.000e-03
+This study	unknown	PI44-10	PI44	PI44-10b		1.000e-03
+This study	unknown	PI44-12	PI44	PI44-12b		1.000e-03
+This study	unknown	PI44-13	PI44	PI44-13b		1.000e-03

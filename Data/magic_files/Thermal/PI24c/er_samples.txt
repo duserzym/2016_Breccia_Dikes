@@ -1,0 +1,9 @@
+tab 	er_samples
+er_citation_names	er_location_name	er_sample_name	er_site_name	magic_method_codes	sample_azimuth	sample_bed_dip	sample_bed_dip_direction	sample_class	sample_declination_correction	sample_dip	sample_height	sample_lithology	sample_type
+This study	Slate Islands	PI24c-1	PI24c	SO-CMD-NORTH	-51.0	0.0	84.0		-6.0	-62.0	0		
+This study	Slate Islands	PI24c-2	PI24c	SO-CMD-NORTH	-95.0	0.0	84.0		-6.0	-53.0	0		
+This study	Slate Islands	PI24c-3	PI24c	SO-CMD-NORTH	-73.0	0.0	84.0		-6.0	-81.0	0		
+This study	Slate Islands	PI24c-4	PI24c	SO-CMD-NORTH	-95.0	0.0	84.0		-6.0	-76.0	0		
+This study	Slate Islands	PI24c-6	PI24c	SO-CMD-NORTH	-51.0	0.0	84.0		-6.0	-102.0	0		
+This study	Slate Islands	PI24c-7	PI24c	SO-CMD-NORTH	254.0	0.0	84.0		-6.0	-112.0	0		
+This study	Slate Islands	PI24c-8	PI24c	SO-CMD-NORTH	230.0	0.0	84.0		-6.0	-102.0	0		

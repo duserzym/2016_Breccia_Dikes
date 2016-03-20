@@ -1,0 +1,14 @@
+tab 	er_samples
+er_citation_names	er_location_name	er_sample_name	er_site_name	magic_method_codes	sample_azimuth	sample_bed_dip	sample_bed_dip_direction	sample_class	sample_declination_correction	sample_dip	sample_height	sample_lithology	sample_type
+This study	unknown	PI44-1	PI44	SO-CMD-NORTH	110.1	0.0	84.1		-5.9	-43.0	0		
+This study	unknown	PI44-2	PI44	SO-CMD-NORTH	119.1	0.0	84.1		-5.9	-44.0	0		
+This study	unknown	PI44-3	PI44	SO-CMD-NORTH	134.1	0.0	84.1		-5.9	-34.0	0		
+This study	unknown	PI44-4	PI44	SO-CMD-NORTH	119.1	0.0	84.1		-5.9	-36.0	0		
+This study	unknown	PI44-5	PI44	SO-CMD-NORTH	122.1	0.0	84.1		-5.9	-35.0	0		
+This study	unknown	PI44-6	PI44	SO-CMD-NORTH	248.1	0.0	84.1		-5.9	-71.0	0		
+This study	unknown	PI44-7	PI44	SO-CMD-NORTH	247.1	0.0	84.1		-5.9	-73.0	0		
+This study	unknown	PI44-8	PI44	SO-CMD-NORTH	248.1	0.0	84.1		-5.9	-71.0	0		
+This study	unknown	PI44-9	PI44	SO-CMD-NORTH	-6.9	0.0	84.1		-5.9	-28.0	0		
+This study	unknown	PI44-10	PI44	SO-CMD-NORTH	47.1	0.0	84.1		-5.9	-20.0	0		
+This study	unknown	PI44-12	PI44	SO-CMD-NORTH	24.1	0.0	84.1		-5.9	-59.0	0		
+This study	unknown	PI44-13	PI44	SO-CMD-NORTH	17.1	0.0	84.1		-5.9	-66.0	0		

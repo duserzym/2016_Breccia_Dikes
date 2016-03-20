@@ -1,0 +1,32 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_comp_n	specimen_comp_name	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_flag	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	unknown	PI2m-1	PI2m	PI2m-1b	PI2m-1b:LP-DIR-T	hargrave 2014-08-22 14:01:46	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	398	0	K		3	LT	u	38.5	176.5	l	g	70.9	7.3	5	-1
+	This study	unknown	PI2m-1	PI2m	PI2m-1b	PI2m-1b:LP-DIR-T	hargrave 2014-08-22 14:01:46	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	943	873	K		3	hem	u	12.6	236.3	l	g	39.7	9.9	5	-1
+	This study	unknown	PI2m-1	PI2m	PI2m-1b	PI2m-1b:LP-DIR-T	hargrave 2014-08-22 14:01:46	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	848	473	K		3	HT	u	3.8	210.8	l	g	33.6	2.6	16	-1
+	This study	unknown	PI2m-1	PI2m	PI2m-1b	PI2m-1b:LP-DIR-T	hargrave 2014-08-22 14:01:46	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	398	0	K		3	LT	u	38.5	31.5	l	g	86.7	7.3	5	0
+	This study	unknown	PI2m-1	PI2m	PI2m-1b	PI2m-1b:LP-DIR-T	hargrave 2014-08-22 14:01:46	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	943	873	K		3	hem	u	12.6	122.1	l	g	47.0	9.9	5	0
+	This study	unknown	PI2m-1	PI2m	PI2m-1b	PI2m-1b:LP-DIR-T	hargrave 2014-08-22 14:01:46	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	848	473	K		3	HT	u	3.8	90.7	l	g	46.8	2.6	16	0
+	This study	unknown	PI2m-5	PI2m	PI2m-5b	PI2m-5b:LP-DIR-T	hargrave 2014-08-22 15:04:50	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	398	0	K		3	LT	u	56.3	308.3	l	g	49.6	14.4	5	-1
+	This study	unknown	PI2m-5	PI2m	PI2m-5b	PI2m-5b:LP-DIR-T	hargrave 2014-08-22 15:04:50	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	848	473	K		3	HT	u	3.7	46.5	l	g	53.3	4.7	16	-1
+	This study	unknown	PI2m-5	PI2m	PI2m-5b	PI2m-5b:LP-DIR-T	hargrave 2014-08-22 15:04:50	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	943	873	K		3	hem	u	19.0	36.6	l	g	29.8	9.1	5	-1
+	This study	unknown	PI2m-5	PI2m	PI2m-5b	PI2m-5b:LP-DIR-T	hargrave 2014-08-22 15:04:50	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	398	0	K		3	LT	u	56.3	11.5	l	g	33.7	14.4	5	0
+	This study	unknown	PI2m-5	PI2m	PI2m-5b	PI2m-5b:LP-DIR-T	hargrave 2014-08-22 15:04:50	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	848	473	K		3	HT	u	3.7	81.6	l	g	36.1	4.7	16	0
+	This study	unknown	PI2m-5	PI2m	PI2m-5b	PI2m-5b:LP-DIR-T	hargrave 2014-08-22 15:04:50	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	943	873	K		3	hem	u	19.0	81.0	l	g	11.5	9.1	5	0
+	This study	unknown	PI2m-6	PI2m	PI2m-6b	PI2m-6b:LP-DIR-T	hargrave 2014-08-22 14:04:44	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	423	0	K		3	LT	u	51.8	175.7	l	g	53.7	15.6	6	-1
+	This study	unknown	PI2m-6	PI2m	PI2m-6b	PI2m-6b:LP-DIR-T	hargrave 2014-08-22 14:04:44	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	848	473	K		3	HT	u	4.6	312.4	l	g	64.0	1.8	16	-1
+	This study	unknown	PI2m-6	PI2m	PI2m-6b	PI2m-6b:LP-DIR-T	hargrave 2014-08-22 14:04:44	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	943	873	K		3	hem	u	19.0	313.4	l	g	67.5	6.7	5	-1
+	This study	unknown	PI2m-6	PI2m	PI2m-6b	PI2m-6b:LP-DIR-T	hargrave 2014-08-22 14:04:44	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	423	0	K		3	LT	u	51.8	238.3	l	g	68.6	15.6	6	0
+	This study	unknown	PI2m-6	PI2m	PI2m-6b	PI2m-6b:LP-DIR-T	hargrave 2014-08-22 14:04:44	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	848	473	K		3	HT	u	4.6	33.2	l	g	52.4	1.8	16	0
+	This study	unknown	PI2m-6	PI2m	PI2m-6b	PI2m-6b:LP-DIR-T	hargrave 2014-08-22 14:04:44	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	943	873	K		3	hem	u	19.0	35.8	l	g	55.5	6.7	5	0
+	This study	unknown	PI2m-7	PI2m	PI2m-7b	PI2m-7b:LP-DIR-T	hargrave 2014-08-22 14:06:15	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	448	323	K		3	LT	u	49.7	203.5	l	g	71.0	11.1	6	-1
+	This study	unknown	PI2m-7	PI2m	PI2m-7b	PI2m-7b:LP-DIR-T	hargrave 2014-08-22 14:06:15	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	823	498	K		3	HT	u	21.9	121.4	l	g	39.0	1.8	14	-1
+	This study	unknown	PI2m-7	PI2m	PI2m-7b	PI2m-7b:LP-DIR-T	hargrave 2014-08-22 14:06:15	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	943	873	K		3	hem	u	53.1	107.0	l	g	48.2	12.1	5	-1
+	This study	unknown	PI2m-7	PI2m	PI2m-7b	PI2m-7b:LP-DIR-T	hargrave 2014-08-22 14:06:15	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	448	323	K		3	LT	u	49.7	323.8	l	g	76.4	11.1	6	0
+	This study	unknown	PI2m-7	PI2m	PI2m-7b	PI2m-7b:LP-DIR-T	hargrave 2014-08-22 14:06:15	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	823	498	K		3	HT	u	21.9	91.4	l	g	48.3	1.8	14	0
+	This study	unknown	PI2m-7	PI2m	PI2m-7b	PI2m-7b:LP-DIR-T	hargrave 2014-08-22 14:06:15	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	943	873	K		3	hem	u	53.1	70.5	l	g	48.3	12.1	5	0
+	This study	unknown	PI2m-8	PI2m	PI2m-8b	PI2m-8b:LP-DIR-T	hargrave 2014-08-22 14:07:50	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	423	0	K		3	LT	u	49.6	205.9	l	g	56.8	16.8	6	-1
+	This study	unknown	PI2m-8	PI2m	PI2m-8b	PI2m-8b:LP-DIR-T	hargrave 2014-08-22 14:07:50	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	848	473	K		3	HT	u	2.6	129.4	l	g	38.9	2.4	16	-1
+	This study	unknown	PI2m-8	PI2m	PI2m-8b	PI2m-8b:LP-DIR-T	hargrave 2014-08-22 14:07:50	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	943	873	K		3	hem	u	36.0	123.7	l	g	49.8	4.5	5	-1
+	This study	unknown	PI2m-8	PI2m	PI2m-8b	PI2m-8b:LP-DIR-T	hargrave 2014-08-22 14:07:50	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	423	0	K		3	LT	u	49.6	7.2	l	g	54.0	16.8	6	0
+	This study	unknown	PI2m-8	PI2m	PI2m-8b	PI2m-8b:LP-DIR-T	hargrave 2014-08-22 14:07:50	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	848	473	K		3	HT	u	2.6	91.2	l	g	46.0	2.4	16	0
+	This study	unknown	PI2m-8	PI2m	PI2m-8b	PI2m-8b:LP-DIR-T	hargrave 2014-08-22 14:07:50	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	943	873	K		3	hem	u	36.0	76.6	l	g	41.1	4.5	5	0
