@@ -15,8 +15,10 @@ https://nbviewer.jupyter.org/github/swanson-hysell-group/2016_Breccia_Dikes/blob
 Breccia dike cooling model notebook:
 https://nbviewer.jupyter.org/github/swanson-hysell-group/2016_Breccia_Dikes/blob/master/Code/dike_cooling_model.ipynb
 
+The APWP_analysis folder within this repository contains paleomagnetic pole compilations from Torsvik et al. (2012) and Swanson-Hysell et al. (2012).
+
 ###Data
-This folder contains the data from this study.
+This folder contains paleomagnetic data of this study (MagIC-formatted files) and data used for the baked contact analysis.
 
 ###Manuscript
-This folder contains the text of the paper and the figure files.
+This folder contains the paper, the supplementary material and the figure files.
