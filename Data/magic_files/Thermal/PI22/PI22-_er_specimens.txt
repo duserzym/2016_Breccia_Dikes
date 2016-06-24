@@ -1,0 +1,17 @@
+tab 	er_specimens
+er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	unknown	PI22-1	PI22	PI22-1b		1.000e-03
+This study	unknown	PI22-2	PI22	PI22-2b		1.000e-03
+This study	unknown	PI22-3	PI22	PI22-3b		1.000e-03
+This study	unknown	PI22-4	PI22	PI22-4b		1.000e-03
+This study	unknown	PI22-5	PI22	PI22-5b		1.000e-03
+This study	unknown	PI22-6	PI22	PI22-6b		1.000e-03
+This study	unknown	PI22-7	PI22	PI22-7b		1.000e-03
+This study	unknown	PI22-8	PI22	PI22-8b		1.000e-03
+This study	unknown	PI22-9	PI22	PI22-9b		1.000e-03
+This study	unknown	PI22-10	PI22	PI22-10b		1.000e-03
+This study	unknown	PI22-11	PI22	PI22-11b		1.000e-03
+This study	unknown	PI22-12	PI22	PI22-12b		1.000e-03
+This study	unknown	PI22-13	PI22	PI22-13b		1.000e-03
+This study	unknown	PI22-14	PI22	PI22-14b		1.000e-03
+This study	unknown	PI22-15	PI22	PI22-15b		1.000e-03

@@ -1,0 +1,226 @@
+tab 	er_specimens
+er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	unknown	DeI2-1	DeI2	DeI2-1a		1.000e-03
+This study	unknown	DeI2-2	DeI2	DeI2-2a		1.000e-03
+This study	unknown	DeI2-3	DeI2	DeI2-3a		1.000e-03
+This study	unknown	DeI2-4	DeI2	DeI2-4a		1.000e-03
+This study	unknown	DeI2-6	DeI2	DeI2-6a		1.000e-03
+This study	unknown	DeI2-7	DeI2	DeI2-7a		1.000e-03
+This study	unknown	PI15-2	PI15	PI15-2a		1.000e-03
+This study	unknown	PI15-6	PI15	PI15-6a		1.000e-03
+This study	unknown	PI15-7	PI15	PI15-7a		1.000e-03
+This study	unknown	PI15-8	PI15	PI15-8a		1.000e-03
+This study	unknown	PI15-10	PI15	PI15-10a		1.000e-03
+This study	Slate Islands	PI16-1	PI16	PI16-1b		1.000e-03
+This study	Slate Islands	PI16-2	PI16	PI16-2b		1.000e-03
+This study	Slate Islands	PI16-3	PI16	PI16-3b		1.000e-03
+This study	Slate Islands	PI16-4	PI16	PI16-4b		1.000e-03
+This study	Slate Islands	PI16-6	PI16	PI16-6b		1.000e-03
+This study	Slate Islands	PI16-7	PI16	PI16-7b		1.000e-03
+This study	Slate Islands	PI16-9	PI16	PI16-9b		1.000e-03
+This study	Slate Islands	PI16-10	PI16	PI16-10b		1.000e-03
+This study	Slate Islands	PI16-11	PI16	PI16-11b		1.000e-03
+This study	Slate Islands	PI16-12	PI16	PI16-12b		1.000e-03
+This study	Slate Islands	PI16-13	PI16	PI16-13b		1.000e-03
+This study	Slate Islands	PI16-14	PI16	PI16-14b		1.000e-03
+This study	Slate Islands	PI16-16	PI16	PI16-16b		1.000e-03
+This study	Slate Islands	PI16-17	PI16	PI16-17b		1.000e-03
+This study	Slate Islands	PI16-19	PI16	PI16-19b		1.000e-03
+This study	Slate Islands	PI16-20	PI16	PI16-20b		1.000e-03
+This study	Slate Islands	PI16-23	PI16	PI16-23b		1.000e-03
+This study	unknown	PI16-1	PI16	PI16-1a		1.000e-03
+This study	unknown	PI16-2	PI16	PI16-2a		1.000e-03
+This study	unknown	PI16-3	PI16	PI16-3a		1.000e-03
+This study	unknown	PI16-4	PI16	PI16-4a		1.000e-03
+This study	unknown	PI16-6	PI16	PI16-6a		1.000e-03
+This study	unknown	PI16-7	PI16	PI16-7a		1.000e-03
+This study	unknown	PI16-8	PI16	PI16-8a		1.000e-03
+This study	unknown	PI16-9	PI16	PI16-9a		1.000e-03
+This study	unknown	PI16-10	PI16	PI16-10a		1.000e-03
+This study	unknown	PI16-11	PI16	PI16-11a		1.000e-03
+This study	unknown	PI16-12	PI16	PI16-12a		1.000e-03
+This study	unknown	PI16-13	PI16	PI16-13a		1.000e-03
+This study	unknown	PI16-14	PI16	PI16-14a		1.000e-03
+This study	unknown	PI16-15	PI16	PI16-15a		1.000e-03
+This study	unknown	PI16-16	PI16	PI16-16a		1.000e-03
+This study	unknown	PI16-17	PI16	PI16-17a		1.000e-03
+This study	unknown	PI16-18	PI16	PI16-18a		1.000e-03
+This study	unknown	PI16-19	PI16	PI16-19a		1.000e-03
+This study	unknown	PI16-20	PI16	PI16-20a		1.000e-03
+This study	unknown	PI16-21	PI16	PI16-21a		1.000e-03
+This study	unknown	PI16-22	PI16	PI16-22a		1.000e-03
+This study	unknown	PI16-23	PI16	PI16-23a		1.000e-03
+This study	unknown	PI16-24	PI16	PI16-24a		1.000e-03
+This study	unknown	PI16H-25	PI16H	PI16H-25a		1.000e-03
+This study	unknown	PI16H-26	PI16H	PI16H-26a		1.000e-03
+This study	unknown	PI16H-27	PI16H	PI16H-27a		1.000e-03
+This study	unknown	PI16H-28	PI16H	PI16H-28a		1.000e-03
+This study	unknown	PI16H-29	PI16H	PI16H-29a		1.000e-03
+This study	unknown	PI16H-30	PI16H	PI16H-30a		1.000e-03
+This study	unknown	PI22-1	PI22	PI22-1b		1.000e-03
+This study	unknown	PI22-2	PI22	PI22-2b		1.000e-03
+This study	unknown	PI22-3	PI22	PI22-3b		1.000e-03
+This study	unknown	PI22-4	PI22	PI22-4b		1.000e-03
+This study	unknown	PI22-5	PI22	PI22-5b		1.000e-03
+This study	unknown	PI22-6	PI22	PI22-6b		1.000e-03
+This study	unknown	PI22-7	PI22	PI22-7b		1.000e-03
+This study	unknown	PI22-8	PI22	PI22-8b		1.000e-03
+This study	unknown	PI22-9	PI22	PI22-9b		1.000e-03
+This study	unknown	PI22-10	PI22	PI22-10b		1.000e-03
+This study	unknown	PI22-11	PI22	PI22-11b		1.000e-03
+This study	unknown	PI22-12	PI22	PI22-12b		1.000e-03
+This study	unknown	PI22-13	PI22	PI22-13b		1.000e-03
+This study	unknown	PI22-14	PI22	PI22-14b		1.000e-03
+This study	unknown	PI22-15	PI22	PI22-15b		1.000e-03
+This study	unknown	PI22H-16	PI22H	PI22H-16a		1.000e-03
+This study	unknown	PI22H-17	PI22H	PI22H-17a		1.000e-03
+This study	unknown	PI22H-18	PI22H	PI22H-18a		1.000e-03
+This study	unknown	PI22H-19	PI22H	PI22H-19a		1.000e-03
+This study	unknown	PI22H-20	PI22H	PI22H-20a		1.000e-03
+This study	unknown	PI22H-21	PI22H	PI22H-21a		1.000e-03
+This study	unknown	PI22H-22	PI22H	PI22H-22a		1.000e-03
+This study	unknown	PI22H-23	PI22H	PI22H-23a		1.000e-03
+This study	unknown	PI22H-24	PI22H	PI22H-24a		1.000e-03
+This study	unknown	PI22H-25	PI22H	PI22H-25a		1.000e-03
+This study	unknown	PI22H-26	PI22H	PI22H-26a		1.000e-03
+This study	unknown	PI22H-27	PI22H	PI22H-27a		1.000e-03
+This study	unknown	PI22H-28	PI22H	PI22H-28a		1.000e-03
+This study	unknown	PI22H-29	PI22H	PI22H-29a		1.000e-03
+This study	unknown	PI22H-30	PI22H	PI22H-30a		1.000e-03
+This study	unknown	PI22H-31	PI22H	PI22H-31a		1.000e-03
+This study	unknown	PI22H-32	PI22H	PI22H-32a		1.000e-03
+This study	Slate Islands	PI24c-1	PI24c	PI24c-1b		1.000e-03
+This study	Slate Islands	PI24c-2	PI24c	PI24c-2b		1.000e-03
+This study	Slate Islands	PI24c-3	PI24c	PI24c-3b		1.000e-03
+This study	Slate Islands	PI24c-4	PI24c	PI24c-4b		1.000e-03
+This study	Slate Islands	PI24c-6	PI24c	PI24c-6b		1.000e-03
+This study	Slate Islands	PI24c-7	PI24c	PI24c-7b		1.000e-03
+This study	Slate Islands	PI24c-8	PI24c	PI24c-8b		1.000e-03
+This study	unknown	PI24H-16	PI24H	PI24H-16a		1.000e-03
+This study	unknown	PI24H-17	PI24H	PI24H-17a		1.000e-03
+This study	unknown	PI24H-18	PI24H	PI24H-18a		1.000e-03
+This study	unknown	PI24H-19	PI24H	PI24H-19a		1.000e-03
+This study	unknown	PI24H-20	PI24H	PI24H-20a		1.000e-03
+This study	unknown	PI24H-21	PI24H	PI24H-21a		1.000e-03
+This study	unknown	PI24H-22	PI24H	PI24H-22a		1.000e-03
+This study	unknown	PI24H-23	PI24H	PI24H-23a		1.000e-03
+This study	unknown	PI24H-24	PI24H	PI24H-24a		1.000e-03
+This study	unknown	PI24H-25	PI24H	PI24H-25a		1.000e-03
+This study	unknown	PI24H-26	PI24H	PI24H-26a		1.000e-03
+This study	unknown	PI24H-27	PI24H	PI24H-27a		1.000e-03
+This study	unknown	PI24H-28	PI24H	PI24H-28a		1.000e-03
+This study	unknown	PI24H-29	PI24H	PI24H-29a		1.000e-03
+This study	unknown	PI24H-30	PI24H	PI24H-30a		1.000e-03
+This study	unknown	PI24H-31	PI24H	PI24H-31a		1.000e-03
+This study	unknown	PI24H-32	PI24H	PI24H-32a		1.000e-03
+This study	Slate Islands	PI24m-9	PI24m	PI24m-9b		1.000e-03
+This study	Slate Islands	PI24m-10	PI24m	PI24m-10b		1.000e-03
+This study	Slate Islands	PI24m-11	PI24m	PI24m-11b		1.000e-03
+This study	Slate Islands	PI24m-12	PI24m	PI24m-12b		1.000e-03
+This study	Slate Islands	PI24m-13	PI24m	PI24m-13b		1.000e-03
+This study	Slate Islands	PI24m-14	PI24m	PI24m-14b		1.000e-03
+This study	unknown	PI26-1	PI26	PI26-1b		1.000e-03
+This study	unknown	PI26-2	PI26	PI26-2b		1.000e-03
+This study	unknown	PI26-3	PI26	PI26-3b		1.000e-03
+This study	unknown	PI26-4	PI26	PI26-4b		1.000e-03
+This study	unknown	PI26-5	PI26	PI26-5b		1.000e-03
+This study	unknown	PI26-6	PI26	PI26-6b		1.000e-03
+This study	unknown	PI26-7	PI26	PI26-7b		1.000e-03
+This study	unknown	PI26-8	PI26	PI26-8b		1.000e-03
+This study	unknown	PI26-9	PI26	PI26-9b		1.000e-03
+This study	unknown	PI2c-1	PI2c	PI2c-1a		1.000e-03
+This study	unknown	PI2c-3	PI2c	PI2c-3a		1.000e-03
+This study	unknown	PI2c-4	PI2c	PI2c-4a		1.000e-03
+This study	unknown	PI2c-6	PI2c	PI2c-6a		1.000e-03
+This study	unknown	PI2c-7	PI2c	PI2c-7a		1.000e-03
+This study	unknown	PI2c-8	PI2c	PI2c-8a		1.000e-03
+This study	unknown	PI2c-9	PI2c	PI2c-9a		1.000e-03
+This study	unknown	PI2c-10	PI2c	PI2c-10a		1.000e-03
+This study	unknown	PI2c-11	PI2c	PI2c-11a		1.000e-03
+This study	unknown	PI2c-12	PI2c	PI2c-12a		1.000e-03
+This study	unknown	PI2c-13	PI2c	PI2c-13a		1.000e-03
+This study	unknown	PI2c-14	PI2c	PI2c-14a		1.000e-03
+This study	unknown	PI2c-15	PI2c	PI2c-15a		1.000e-03
+This study	unknown	PI2c-16	PI2c	PI2c-16a		1.000e-03
+This study	unknown	PI2c-17	PI2c	PI2c-17a		1.000e-03
+This study	unknown	PI2c-19	PI2c	PI2c-19a		1.000e-03
+This study	unknown	PI2c-20	PI2c	PI2c-20a		1.000e-03
+This study	unknown	PI2c-22	PI2c	PI2c-22a		1.000e-03
+This study	unknown	PI2c-24	PI2c	PI2c-24a		1.000e-03
+This study	unknown	PI2c-25	PI2c	PI2c-25a		1.000e-03
+This study	unknown	PI2m-1	PI2m	PI2m-1b		1.000e-03
+This study	unknown	PI2m-5	PI2m	PI2m-5b		1.000e-03
+This study	unknown	PI2m-6	PI2m	PI2m-6b		1.000e-03
+This study	unknown	PI2m-7	PI2m	PI2m-7b		1.000e-03
+This study	unknown	PI2m-8	PI2m	PI2m-8b		1.000e-03
+This study	unknown	PI31-1	PI31	PI31-1b		1.000e-03
+This study	unknown	PI31-2	PI31	PI31-2b		1.000e-03
+This study	unknown	PI31-3	PI31	PI31-3b		1.000e-03
+This study	unknown	PI31-4	PI31	PI31-4b		1.000e-03
+This study	unknown	PI31-5	PI31	PI31-5b		1.000e-03
+This study	unknown	PI31-6	PI31	PI31-6b		1.000e-03
+This study	unknown	PI31-8	PI31	PI31-8b		1.000e-03
+This study	unknown	PI31-9	PI31	PI31-9b		1.000e-03
+This study	unknown	PI31-10	PI31	PI31-10b		1.000e-03
+This study	unknown	PI31-12	PI31	PI31-12b		1.000e-03
+This study	unknown	PI31-13	PI31	PI31-13b		1.000e-03
+This study	unknown	PI31-14	PI31	PI31-14b		1.000e-03
+This study	unknown	PI31-16	PI31	PI31-16b		1.000e-03
+This study	unknown	PI31-17	PI31	PI31-17b		1.000e-03
+This study	unknown	PI31-18	PI31	PI31-18b		1.000e-03
+This study	unknown	PI31-19	PI31	PI31-19b		1.000e-03
+This study	unknown	PI31-20	PI31	PI31-20b		1.000e-03
+This study	Slate Islands	PI32-1	PI32	PI32-1b		1.000e-03
+This study	Slate Islands	PI32-2	PI32	PI32-2b		1.000e-03
+This study	Slate Islands	PI32-3	PI32	PI32-3b		1.000e-03
+This study	Slate Islands	PI32-4	PI32	PI32-4b		1.000e-03
+This study	Slate Islands	PI32-5	PI32	PI32-5b		1.000e-03
+This study	Slate Islands	PI32-6	PI32	PI32-6b		1.000e-03
+This study	Slate Islands	PI32-7	PI32	PI32-7b		1.000e-03
+This study	Slate Islands	PI32-8	PI32	PI32-8b		1.000e-03
+This study	Slate Islands	PI32-9	PI32	PI32-9b		1.000e-03
+This study	Slate Islands	PI33-1	PI33	PI33-1b		1.000e-03
+This study	Slate Islands	PI33-2	PI33	PI33-2b		1.000e-03
+This study	Slate Islands	PI33-3	PI33	PI33-3b		1.000e-03
+This study	Slate Islands	PI33-5	PI33	PI33-5b		1.000e-03
+This study	Slate Islands	PI33-6	PI33	PI33-6b		1.000e-03
+This study	Slate Islands	PI34-1	PI34	PI34-1b		1.000e-03
+This study	Slate Islands	PI34-2	PI34	PI34-2b		1.000e-03
+This study	Slate Islands	PI34-3	PI34	PI34-3b		1.000e-03
+This study	Slate Islands	PI34-4	PI34	PI34-4b		1.000e-03
+This study	Slate Islands	PI34-5	PI34	PI34-5b		1.000e-03
+This study	Slate Islands	PI34-6	PI34	PI34-6b		1.000e-03
+This study	Slate Islands	PI34-7	PI34	PI34-7b		1.000e-03
+This study	Slate Islands	PI34-8	PI34	PI34-8b		1.000e-03
+This study	unknown	PI44-1	PI44	PI44-1b		1.000e-03
+This study	unknown	PI44-2	PI44	PI44-2b		1.000e-03
+This study	unknown	PI44-3	PI44	PI44-3b		1.000e-03
+This study	unknown	PI44-4	PI44	PI44-4b		1.000e-03
+This study	unknown	PI44-5	PI44	PI44-5b		1.000e-03
+This study	unknown	PI44-6	PI44	PI44-6b		1.000e-03
+This study	unknown	PI44-7	PI44	PI44-7b		1.000e-03
+This study	unknown	PI44-8	PI44	PI44-8b		1.000e-03
+This study	unknown	PI44-9	PI44	PI44-9b		1.000e-03
+This study	unknown	PI44-10	PI44	PI44-10b		1.000e-03
+This study	unknown	PI44-12	PI44	PI44-12b		1.000e-03
+This study	unknown	PI44-13	PI44	PI44-13b		1.000e-03
+This study	unknown	PI46-1	PI46	PI46-1b		1.000e-03
+This study	unknown	PI46-2	PI46	PI46-2b		1.000e-03
+This study	unknown	PI46-3	PI46	PI46-3b		1.000e-03
+This study	unknown	PI46-4	PI46	PI46-4b		1.000e-03
+This study	unknown	PI46-5	PI46	PI46-5b		1.000e-03
+This study	unknown	PI46-6	PI46	PI46-6b		1.000e-03
+This study	unknown	PI46-7	PI46	PI46-7b		1.000e-03
+This study	unknown	PI46-8	PI46	PI46-8b		1.000e-03
+This study	unknown	PI46-9	PI46	PI46-9b		1.000e-03
+This study	unknown	PI46-10	PI46	PI46-10b		1.000e-03
+This study	unknown	PI46-11	PI46	PI46-11b		1.000e-03
+This study	unknown	PI47-1	PI47	PI47-1a		1.000e-03
+This study	unknown	PI47-2	PI47	PI47-2a		1.000e-03
+This study	unknown	PI47-3	PI47	PI47-3a		1.000e-03
+This study	unknown	PI47-4	PI47	PI47-4a		1.000e-03
+This study	unknown	PI47-5	PI47	PI47-5a		1.000e-03
+This study	unknown	PI47-6	PI47	PI47-6a		1.000e-03
+This study	unknown	PI47-7	PI47	PI47-7a		1.000e-03
+This study	unknown	PI47-8	PI47	PI47-8a		1.000e-03
+This study	unknown	PI47-9	PI47	PI47-9a		1.000e-03

@@ -1,0 +1,22 @@
+tab 	er_sites
+er_citation_names	er_location_name	er_site_name	site_lat	site_lon
+This study	unknown	DeI2	48.7	273.0
+This study	unknown	PI15	48.6	273.0
+This study	Slate Islands	PI16	48.7	273.0
+This study	unknown	PI16	48.7	273.0
+This study	unknown	PI16H	48.7	-87.0
+This study	unknown	PI22	48.7	273.0
+This study	unknown	PI22H	48.7	-87.0
+This study	Slate Islands	PI24c	48.7	273.0
+This study	unknown	PI24H	48.7	-87.0
+This study	Slate Islands	PI24m	48.7	273.0
+This study	unknown	PI26	48.6	273.0
+This study	unknown	PI2c	48.6	272.9
+This study	unknown	PI2m	48.6	272.9
+This study	unknown	PI31	48.6	273.0
+This study	Slate Islands	PI32	48.6	272.9
+This study	Slate Islands	PI33	48.6	272.9
+This study	Slate Islands	PI34	48.6	272.9
+This study	unknown	PI44	48.7	272.9
+This study	unknown	PI46	48.7	273.0
+This study	unknown	PI47	48.7	-87.0
