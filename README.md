@@ -1,6 +1,8 @@
 ##A matter of minutes: Breccia dike paleomagnetism provides evidence for rapid crater modification
 
-This repository contains materials associated with a manuscript in review entitled **A matter of minutes: Breccia dike paleomagnetism provides evidence for rapid crater modification** by Luke M. Fairchild, Nicholas L. Swanson-Hysell and Sonia M. Tikoo.
+This repository contains materials associated the paper:
+
+Fairchild, L. M., Swanson-Hysell, N. L., & Tikoo, S. M. (2016). **A matter of minutes: Breccia dike paleomagnetism provides evidence for rapid crater modification**. Geology, 44, 723-726. https://doi.org/10.1130/G37927.1
 
 Within this Github repository are the following folders:
 
@@ -18,7 +20,7 @@ https://nbviewer.jupyter.org/github/swanson-hysell-group/2016_Breccia_Dikes/blob
 The APWP_analysis folder within this repository contains paleomagnetic pole compilations from Torsvik et al. (2012) and Swanson-Hysell et al. (2012).
 
 ###Data
-This folder contains paleomagnetic data of this study (MagIC-formatted files) and data used for the baked contact analysis.
+This folder contains paleomagnetic data of this study (MagIC-formatted files) and data used for the baked contact analysis. The data is also archived in the MagIC database: https://earthref.org/MagIC/doi/10.1130/G37927.1
 
 ###Manuscript
 This folder contains the paper, the supplementary material and the figure files.
