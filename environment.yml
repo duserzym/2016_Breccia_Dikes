@@ -1,0 +1,10 @@
+name:
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - psutil
+  - matplotlib
+  - basemap
+  - pandas
