@@ -1,7 +1,0 @@
-tab 	er_samples
-er_citation_names	er_location_name	er_sample_name	er_site_name	magic_method_codes	sample_azimuth	sample_bed_dip	sample_bed_dip_direction	sample_class	sample_declination_correction	sample_dip	sample_height	sample_lithology	sample_type
-This study	unknown	PI15-2	PI15	SO-CMD-NORTH	-32.8	0.0	84.2		-5.8	-42.0	0		
-This study	unknown	PI15-6	PI15	SO-CMD-NORTH	-5.8	0.0	84.2		-5.8	-87.0	0		
-This study	unknown	PI15-7	PI15	SO-CMD-NORTH	7.2	0.0	84.2		-5.8	-78.0	0		
-This study	unknown	PI15-8	PI15	SO-CMD-NORTH	3.2	0.0	84.2		-5.8	-74.0	0		
-This study	unknown	PI15-10	PI15	SO-CMD-NORTH	18.2	0.0	84.2		-5.8	-83.0	0		

@@ -1,5 +1,0 @@
-tab 	pmag_sites
-er_analyst_mail_names	er_citation_names	er_location_name	er_site_name	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	site_alpha95	site_comp_name	site_dec	site_description	site_direction_type	site_inc	site_inferred_age	site_inferred_age_sigma	site_inferred_age_unit	site_k	site_n	site_n_lines	site_n_planes	site_polarity	site_r	site_tilt_correction
-	This study	unknown	PI24H	PI24H-16a:PI24H-17a:PI24H-18a:PI24H-19a:PI24H-20a:PI24H-21a:PI24H-23a:PI24H-24a:PI24H-26a:PI24H-27a:PI24H-28a:PI24H-29a:PI24H-30a:PI24H-31a:PI24H-32a	LP-DIR-T:DE-BFL:DA-DIR-GEO:LP-DC4:DE-FM	pmagpy-3.4.0	ACCEPT	7.8	MT	76.9	Site direction included in results table		62.2	9.9810e+02	9.9810e+02	Years Cal BP	25	15	15	0		14.4381	0
-	This study	unknown	PI24H	PI24H-19a	LP-DIR-T:DE-BFL:DA-DIR-GEO:LP-DC4	pmagpy-3.4.0	ACCEPT		PLF	347.6	Site direction included in results table	l	78.4	9.9810e+02	9.9810e+02	Years Cal BP		1	1	0			0
-	This study	unknown	PI24H	PI24H-30a	LP-DIR-T:DE-BFL:DA-DIR-GEO:LP-DC4	pmagpy-3.4.0	ACCEPT		HT	324.4	Site direction included in results table	l	58.9	9.9810e+02	9.9810e+02	Years Cal BP		1	1	0			0

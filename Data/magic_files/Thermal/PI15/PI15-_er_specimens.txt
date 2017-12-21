@@ -1,7 +1,0 @@
-tab 	er_specimens
-er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
-This study	unknown	PI15-2	PI15	PI15-2a		1.000e-03
-This study	unknown	PI15-6	PI15	PI15-6a		1.000e-03
-This study	unknown	PI15-7	PI15	PI15-7a		1.000e-03
-This study	unknown	PI15-8	PI15	PI15-8a		1.000e-03
-This study	unknown	PI15-10	PI15	PI15-10a		1.000e-03

@@ -1,5 +1,0 @@
-tab 	pmag_sites
-er_analyst_mail_names	er_citation_names	er_location_name	er_site_name	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	site_alpha95	site_comp_name	site_dec	site_description	site_direction_type	site_inc	site_inferred_age	site_inferred_age_sigma	site_inferred_age_unit	site_k	site_n	site_n_lines	site_n_planes	site_polarity	site_r	site_tilt_correction
-	This study	Slate Islands	PI34	PI34-1b:PI34-2b:PI34-3b:PI34-4b:PI34-6b:PI34-7b:PI34-8b	LP-DIR-T:DE-BFL:DA-DIR-GEO:LP-DC4:DE-FM	pmagpy-3.4.0	ACCEPT	4.0	LT	13.4	Site direction included in results table		78.8	9.9810e+02	9.9810e+02	Years Cal BP	225	7	7	0		6.9733	0
-	This study	Slate Islands	PI34	PI34-1b:PI34-2b:PI34-3b:PI34-4b:PI34-5b:PI34-6b:PI34-7b:PI34-8b	LP-DIR-T:DE-BFL:DA-DIR-GEO:LP-DC4:DE-FM	pmagpy-3.4.0	ACCEPT	3.7	HT	101.2	Site direction included in results table		55.4	9.9810e+02	9.9810e+02	Years Cal BP	228	8	8	0		7.9693	0
-	This study	Slate Islands	PI34	PI34-3b	LP-DIR-T:DE-BFL:DA-DIR-GEO:LP-DC4	pmagpy-3.4.0	ACCEPT		MT	66.7	Site direction included in results table	l	72.9	9.9810e+02	9.9810e+02	Years Cal BP		1	1	0			0

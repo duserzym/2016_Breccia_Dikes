@@ -1,8 +1,0 @@
-tab 	er_specimens
-er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
-This study	unknown	DeI2-1	DeI2	DeI2-1a		1.000e-03
-This study	unknown	DeI2-2	DeI2	DeI2-2a		1.000e-03
-This study	unknown	DeI2-3	DeI2	DeI2-3a		1.000e-03
-This study	unknown	DeI2-4	DeI2	DeI2-4a		1.000e-03
-This study	unknown	DeI2-6	DeI2	DeI2-6a		1.000e-03
-This study	unknown	DeI2-7	DeI2	DeI2-7a		1.000e-03

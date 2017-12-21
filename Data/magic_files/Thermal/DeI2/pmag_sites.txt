@@ -1,5 +1,0 @@
-tab 	pmag_sites
-er_analyst_mail_names	er_citation_names	er_location_name	er_site_name	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	site_alpha95	site_comp_name	site_dec	site_description	site_inc	site_inferred_age	site_inferred_age_sigma	site_inferred_age_unit	site_k	site_n	site_n_lines	site_n_planes	site_polarity	site_r	site_tilt_correction
-	This study	unknown	DeI2	DeI2-1a:DeI2-2a:DeI2-3a:DeI2-4a:DeI2-6a	LP-DIR-T:DE-BFL:DA-DIR-GEO:LP-DC4:DE-FM	pmagpy-3.2.1	ACCEPT	9.0	HT	90.2	Site direction included in results table	43.3	9.9794e+02	9.9794e+02	Years Cal BP	73	5	5	0		4.9456	0
-	This study	unknown	DeI2	DeI2-1a:DeI2-2a:DeI2-3a:DeI2-4a:DeI2-6a	LP-DIR-T:DE-BFL:DA-DIR-GEO:LP-DC4:DE-FM	pmagpy-3.2.1	ACCEPT	14.0	hem	95.5	Site direction included in results table	36.5	9.9794e+02	9.9794e+02	Years Cal BP	31	5	5	0		4.8709	0
-	This study	unknown	DeI2	DeI2-3a:DeI2-4a:DeI2-6a	LP-DIR-T:DE-BFL:DA-DIR-GEO:LP-DC4:DE-FM	pmagpy-3.2.1	ACCEPT	20.1	LT	150.3	Site direction included in results table	84.6	9.9794e+02	9.9794e+02	Years Cal BP	39	3	3	0		2.9483	0

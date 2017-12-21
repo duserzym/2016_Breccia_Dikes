@@ -1,4 +1,0 @@
-tab 	pmag_sites
-er_analyst_mail_names	er_citation_names	er_location_name	er_site_name	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	site_alpha95	site_comp_name	site_dec	site_description	site_direction_type	site_inc	site_inferred_age	site_inferred_age_sigma	site_inferred_age_unit	site_k	site_n	site_n_lines	site_n_planes	site_polarity	site_r	site_tilt_correction
-	This study	Slate Islands	PI16	PI16-10b:PI16-11b:PI16-12b:PI16-13b:PI16-14b:PI16-16b:PI16-17b:PI16-19b:PI16-1b:PI16-20b:PI16-23b:PI16-2b:PI16-3b:PI16-4b:PI16-6b:PI16-7b:PI16-9b	LP-DIR-T:DE-BFL:DA-DIR-GEO:LP-DC4:DE-FM	pmagpy-3.4.0	ACCEPT	4.9	HT	84.1	Site direction included in results table		53.5	9.9809e+02	9.9809e+02	Years Cal BP	55	17	17	0		16.7069	0
-	This study	Slate Islands	PI16	PI16-1b	LP-DIR-T:DE-BFL:DA-DIR-GEO:LP-DC4	pmagpy-3.4.0	ACCEPT		LT	57.8	Site direction included in results table	l	76.5	9.9809e+02	9.9809e+02	Years Cal BP		1	1	0			0

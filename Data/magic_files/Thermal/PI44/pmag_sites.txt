@@ -1,4 +1,0 @@
-tab 	pmag_sites
-er_analyst_mail_names	er_citation_names	er_location_name	er_site_name	er_specimen_names	magic_method_codes	magic_software_packages	pmag_criteria_codes	site_alpha95	site_comp_name	site_dec	site_description	site_inc	site_inferred_age	site_inferred_age_sigma	site_inferred_age_unit	site_k	site_n	site_n_lines	site_n_planes	site_polarity	site_r	site_tilt_correction
-	This study	unknown	PI44	PI44-10b:PI44-12b:PI44-13b:PI44-1b:PI44-2b:PI44-3b:PI44-4b:PI44-5b:PI44-6b:PI44-7b:PI44-8b:PI44-9b	LP-DIR-T:DE-BFL:DA-DIR-GEO:LP-DC4:DE-FM	pmagpy-3.4.0	ACCEPT	6.6	LT	4.6	Site direction included in results table	73.6	9.9809e+02	9.9809e+02	Years Cal BP	44	12	12	0		11.7505	0
-	This study	unknown	PI44	PI44-10b:PI44-12b:PI44-13b:PI44-1b:PI44-2b:PI44-3b:PI44-4b:PI44-5b:PI44-6b:PI44-7b:PI44-8b:PI44-9b	LP-DIR-T:DE-BFL:DA-DIR-GEO:LP-DC4:DE-FM	pmagpy-3.4.0	ACCEPT	1.9	HT	86.5	Site direction included in results table	48.7	9.9809e+02	9.9809e+02	Years Cal BP	499	12	12	0		11.9780	0
