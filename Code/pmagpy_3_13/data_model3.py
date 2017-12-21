@@ -5,7 +5,7 @@ import os
 import json
 import pandas as pd
 from pandas import DataFrame
-from pmagpy import find_pmag_dir
+from pmagpy_3_13 import find_pmag_dir
 
 
 class DataModel(object):
