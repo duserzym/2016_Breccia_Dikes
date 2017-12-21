@@ -1,6 +1,0 @@
-numpy
-pandas
-matplotlib
-basemap==1.0.7
-warnings
-past
