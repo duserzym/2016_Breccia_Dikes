@@ -2,7 +2,7 @@ from __future__ import print_function
 from __future__ import absolute_import
 import os, sys
 from pkg_resources import resource_filename
-import locator
+from . import locator
 from imp import reload
 #import time
 #import urllib2
