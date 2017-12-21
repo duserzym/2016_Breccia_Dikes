@@ -19,9 +19,9 @@ import numpy as np
 import pandas as pd
 from pandas import DataFrame
 # from pmagpy import pmag
-from pmagpy import data_model3 as data_model
-from pmagpy import controlled_vocabularies3 as cv
-from pmagpy import pmag
+from pmagpy_3_13 import data_model3 as data_model
+from pmagpy_3_13 import controlled_vocabularies3 as cv
+from pmagpy_3_13 import pmag
 
 
 class Contribution(object):
