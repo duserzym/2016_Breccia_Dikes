@@ -10,7 +10,7 @@ from __future__ import absolute_import
 from builtins import zip
 from builtins import str
 import json
-from pmagpy.data_model3 import DataModel
+from pmagpy_3_13.data_model3 import DataModel
 from . import maps
 
 
