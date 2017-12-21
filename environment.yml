@@ -8,7 +8,6 @@ dependencies:
   - matplotlib
   - basemap
   - pandas
-  - warnings
   - pip:
     - future
     - past
