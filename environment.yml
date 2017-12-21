@@ -8,6 +8,7 @@ dependencies:
   - matplotlib
   - basemap
   - pandas
+  - scipy
   - pip:
     - future
     - pmagpy
