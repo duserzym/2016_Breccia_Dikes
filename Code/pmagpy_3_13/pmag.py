@@ -16,7 +16,7 @@ import os
 import time
 import pandas as pd
 from .mapping import map_magic
-from pmagpy import new_builder as nb
+from pmagpy_3_13 import new_builder as nb
 from . import find_pmag_dir
 
 
