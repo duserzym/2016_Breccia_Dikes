@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Swanson-Hysell-Group/2016_Breccia_Dikes/master?filepath=Code%2FBreccia_Dike_Data_py3.ipynb)
+
 ## A matter of minutes: Breccia dike paleomagnetism provides evidence for rapid crater modification
 
 This repository contains materials associated the paper:
