@@ -1,0 +1,7 @@
+tab 	er_samples
+er_citation_names	er_location_name	er_sample_name	er_site_name	magic_method_codes	sample_azimuth	sample_bed_dip	sample_bed_dip_direction	sample_class	sample_declination_correction	sample_dip	sample_height	sample_lithology	sample_type
+This study	unknown	PI2m-1	PI2m	SO-CMD-NORTH	232.2	0.0	84.2		-5.8	-16.0	0		
+This study	unknown	PI2m-5	PI2m	SO-CMD-NORTH	49.2	0.0	84.2		-5.8	-22.0	0		
+This study	unknown	PI2m-6	PI2m	SO-CMD-NORTH	65.2	0.0	84.2		-5.8	-15.0	0		
+This study	unknown	PI2m-7	PI2m	SO-CMD-NORTH	-2.8	0.0	84.2		-5.8	-29.0	0		
+This study	unknown	PI2m-8	PI2m	SO-CMD-NORTH	31.2	0.0	84.2		-5.8	-64.0	0		

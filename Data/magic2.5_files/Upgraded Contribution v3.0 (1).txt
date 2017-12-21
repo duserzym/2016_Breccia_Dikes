@@ -1,0 +1,463 @@
+﻿tab delimited	contribution
+data_model_version
+3.0
+>>>>>>>>>>
+tab delimited	sites
+site	location	citations	lat	lon
+DeI2	unknown	This study	48.7	273.0
+PI15	unknown	This study	48.6	273.0
+PI16	unknown	This study	48.7	273.0
+PI16	Slate Islands	This study	48.7	273.0
+PI16H	unknown	This study	48.7	-87.0
+PI22	unknown	This study	48.7	273.0
+PI22H	unknown	This study	48.7	-87.0
+PI24H	unknown	This study	48.7	-87.0
+PI24c	Slate Islands	This study	48.7	273.0
+PI24m	Slate Islands	This study	48.7	273.0
+PI26	unknown	This study	48.6	273.0
+PI2c	unknown	This study	48.6	272.9
+PI2m	unknown	This study	48.6	272.9
+PI31	unknown	This study	48.6	273.0
+PI32	Slate Islands	This study	48.6	272.9
+PI33	Slate Islands	This study	48.6	272.9
+PI34	Slate Islands	This study	48.6	272.9
+PI44	unknown	This study	48.7	272.9
+PI46	unknown	This study	48.7	273.0
+PI47	unknown	This study	48.7	-87.0
+>>>>>>>>>>
+tab delimited	samples
+sample	site	method_codes	citations	orientation_quality	azimuth	azimuth_dec_correction	dip	bed_dip	bed_dip_direction	height
+DeI2-1	DeI2	SO-CMD-NORTH	This study	g	-5.8	-5.8	-39.0	0.0	84.2	0
+DeI2-2	DeI2	SO-CMD-NORTH	This study	g	-1.8	-5.8	-27.0	0.0	84.2	0
+DeI2-3	DeI2	SO-CMD-NORTH	This study	g	-6.8	-5.8	-28.0	0.0	84.2	0
+DeI2-4	DeI2	SO-CMD-NORTH	This study	g	-7.8	-5.8	-28.0	0.0	84.2	0
+DeI2-6	DeI2	SO-CMD-NORTH	This study	g	155.2	-5.8	-20.0	0.0	84.2	0
+DeI2-7	DeI2	SO-CMD-NORTH	This study	g	75.2	-5.8	-17.0	0.0	84.2	0
+PI15-10	PI15	SO-CMD-NORTH	This study	g	18.2	-5.8	-83.0	0.0	84.2	0
+PI15-2	PI15	SO-CMD-NORTH	This study	g	-32.8	-5.8	-42.0	0.0	84.2	0
+PI15-6	PI15	SO-CMD-NORTH	This study	g	-5.8	-5.8	-87.0	0.0	84.2	0
+PI15-7	PI15	SO-CMD-NORTH	This study	g	7.2	-5.8	-78.0	0.0	84.2	0
+PI15-8	PI15	SO-CMD-NORTH	This study	g	3.2	-5.8	-74.0	0.0	84.2	0
+PI16-1	PI16	SO-CMD-NORTH	This study	g	237.2	-5.8	-72.0	0.0	84.2	0
+PI16-10	PI16	SO-CMD-NORTH	This study	g	240.2	-5.8	-26.0	0.0	84.2	0
+PI16-11	PI16	SO-CMD-NORTH	This study	g	236.2	-5.8	-54.0	0.0	84.2	0
+PI16-12	PI16	SO-CMD-NORTH	This study	g	229.2	-5.8	-39.0	0.0	84.2	0
+PI16-13	PI16	SO-CMD-NORTH	This study	g	-77.8	-5.8	-32.0	0.0	84.2	0
+PI16-14	PI16	SO-CMD-NORTH	This study	g	111.2	-5.8	-45.0	0.0	84.2	0
+PI16-15	PI16	SO-CMD-NORTH	This study	g	182.2	-5.8	-42.0	0.0	84.2	0
+PI16-16	PI16	SO-CMD-NORTH	This study	g	254.2	-5.8	-39.0	0.0	84.2	0
+PI16-17	PI16	SO-CMD-NORTH	This study	g	210.2	-5.8	-38.0	0.0	84.2	0
+PI16-18	PI16	SO-CMD-NORTH	This study	g	69.2	-5.8	-35.0	0.0	84.2	0
+PI16-19	PI16	SO-CMD-NORTH	This study	g	83.2	-5.8	-22.0	0.0	84.2	0
+PI16-2	PI16	SO-CMD-NORTH	This study	g	211.2	-5.8	-45.0	0.0	84.2	0
+PI16-20	PI16	SO-CMD-NORTH	This study	g	204.2	-5.8	-35.0	0.0	84.2	0
+PI16-21	PI16	SO-CMD-NORTH	This study	g	243.2	-5.8	-46.0	0.0	84.2	0
+PI16-22	PI16	SO-CMD-NORTH	This study	g	237.2	-5.8	-33.0	0.0	84.2	0
+PI16-23	PI16	SO-CMD-NORTH	This study	g	244.2	-5.8	-18.0	0.0	84.2	0
+PI16-24	PI16	SO-CMD-NORTH	This study	g	262.2	-5.8	-42.0	0.0	84.2	0
+PI16-3	PI16	SO-CMD-NORTH	This study	g	232.2	-5.8	-80.0	0.0	84.2	0
+PI16-4	PI16	SO-CMD-NORTH	This study	g	242.2	-5.8	-59.0	0.0	84.2	0
+PI16-6	PI16	SO-CMD-NORTH	This study	g	-93.8	-5.8	-41.0	0.0	84.2	0
+PI16-7	PI16	SO-CMD-NORTH	This study	g	-55.8	-5.8	-25.0	0.0	84.2	0
+PI16-8	PI16	SO-CMD-NORTH	This study	g	242.2	-5.8	-43.0	0.0	84.2	0
+PI16-9	PI16	SO-CMD-NORTH	This study	g	-77.8	-5.8	-52.0	0.0	84.2	0
+PI16H-25	PI16H	SO-CMD-NORTH	This study	g	143.1	0.0	-10.0	0.0	90.0	0
+PI16H-26	PI16H	SO-CMD-NORTH	This study	g	-58.9	0.0	-35.0	0.0	90.0	0
+PI16H-27	PI16H	SO-CMD-NORTH	This study	g	-68.9	0.0	-12.0	0.0	90.0	0
+PI16H-28	PI16H	SO-CMD-NORTH	This study	g	253.1	0.0	-48.0	0.0	90.0	0
+PI16H-29	PI16H	SO-CMD-NORTH	This study	g	255.1	0.0	-18.0	0.0	90.0	0
+PI16H-30	PI16H	SO-CMD-NORTH	This study	g	251.1	0.0	-22.0	0.0	90.0	0
+PI22-1	PI22	SO-CMD-NORTH	This study	g	-7.0	-6.0	-33.0	0.0	84.0	0
+PI22-10	PI22	SO-CMD-NORTH	This study	g	145.0	-6.0	-26.0	0.0	84.0	0
+PI22-11	PI22	SO-CMD-NORTH	This study	g	93.0	-6.0	-37.0	0.0	84.0	0
+PI22-12	PI22	SO-CMD-NORTH	This study	g	129.0	-6.0	-30.0	0.0	84.0	0
+PI22-13	PI22	SO-CMD-NORTH	This study	g	-45.0	-6.0	-22.0	0.0	84.0	0
+PI22-14	PI22	SO-CMD-NORTH	This study	g	-96.0	-6.0	-47.0	0.0	84.0	0
+PI22-15	PI22	SO-CMD-NORTH	This study	g	209.0	-6.0	-28.0	0.0	84.0	0
+PI22-2	PI22	SO-CMD-NORTH	This study	g	244.0	-6.0	-25.0	0.0	84.0	0
+PI22-3	PI22	SO-CMD-NORTH	This study	g	-43.0	-6.0	-50.0	0.0	84.0	0
+PI22-4	PI22	SO-CMD-NORTH	This study	g	-43.0	-6.0	-36.0	0.0	84.0	0
+PI22-5	PI22	SO-CMD-NORTH	This study	g	-91.0	-6.0	-28.0	0.0	84.0	0
+PI22-6	PI22	SO-CMD-NORTH	This study	g	-68.0	-6.0	-28.0	0.0	84.0	0
+PI22-7	PI22	SO-CMD-NORTH	This study	g	-39.0	-6.0	-48.0	0.0	84.0	0
+PI22-8	PI22	SO-CMD-NORTH	This study	g	-49.0	-6.0	-46.0	0.0	84.0	0
+PI22-9	PI22	SO-CMD-NORTH	This study	g	62.0	-6.0	-28.0	0.0	84.0	0
+PI22H-16	PI22H	SO-CMD-NORTH	This study	g	-55.7	0.0	-65.0	0.0	90.0	0
+PI22H-17	PI22H	SO-CMD-NORTH	This study	g	-26.3	0.0	-99.0	0.0	90.0	0
+PI22H-18	PI22H	SO-CMD-NORTH	This study	g	-22.0	0.0	-50.0	0.0	90.0	0
+PI22H-19	PI22H	SO-CMD-NORTH	This study	g	-50.1	0.0	-24.0	0.0	90.0	0
+PI22H-20	PI22H	SO-CMD-NORTH	This study	g	18.6	0.0	-70.0	0.0	90.0	0
+PI22H-21	PI22H	SO-CMD-NORTH	This study	g	-52.5	0.0	-37.0	0.0	90.0	0
+PI22H-22	PI22H	SO-CMD-NORTH	This study	g	264.4	0.0	-26.0	0.0	90.0	0
+PI22H-23	PI22H	SO-CMD-NORTH	This study	g	232.4	0.0	-22.0	0.0	90.0	0
+PI22H-24	PI22H	SO-CMD-NORTH	This study	g	100.8	0.0	-24.0	0.0	90.0	0
+PI22H-25	PI22H	SO-CMD-NORTH	This study	g	234.8	0.0	-35.0	0.0	90.0	0
+PI22H-26	PI22H	SO-CMD-NORTH	This study	g	-81.8	0.0	-25.0	0.0	90.0	0
+PI22H-27	PI22H	SO-CMD-NORTH	This study	g	174.1	0.0	-39.0	0.0	90.0	0
+PI22H-28	PI22H	SO-CMD-NORTH	This study	g	167.1	0.0	-64.0	0.0	90.0	0
+PI22H-29	PI22H	SO-CMD-NORTH	This study	g	163.1	0.0	-56.0	0.0	90.0	0
+PI22H-30	PI22H	SO-CMD-NORTH	This study	g	-16.2	0.0	-43.0	0.0	90.0	0
+PI22H-31	PI22H	SO-CMD-NORTH	This study	g	-6.9	0.0	-38.0	0.0	90.0	0
+PI22H-32	PI22H	SO-CMD-NORTH	This study	g	-25.9	0.0	-78.0	0.0	90.0	0
+PI24H-16	PI24H	SO-CMD-NORTH	This study	g	-62.9	0.0	-64.0	0.0	90.0	0
+PI24H-17	PI24H	SO-CMD-NORTH	This study	g	-78.7	0.0	-67.0	0.0	90.0	0
+PI24H-18	PI24H	SO-CMD-NORTH	This study	g	-51.9	0.0	-87.0	0.0	90.0	0
+PI24H-19	PI24H	SO-CMD-NORTH	This study	g	-90.9	0.0	-45.0	0.0	90.0	0
+PI24H-20	PI24H	SO-CMD-NORTH	This study	g	233.1	0.0	-43.0	0.0	90.0	0
+PI24H-21	PI24H	SO-CMD-NORTH	This study	g	-48.0	0.0	-72.0	0.0	90.0	0
+PI24H-22	PI24H	SO-CMD-NORTH	This study	g	-49.9	0.0	-83.0	0.0	90.0	0
+PI24H-23	PI24H	SO-CMD-NORTH	This study	g	259.9	0.0	-53.0	0.0	90.0	0
+PI24H-24	PI24H	SO-CMD-NORTH	This study	g	239.5	0.0	-47.0	0.0	90.0	0
+PI24H-25	PI24H	SO-CMD-NORTH	This study	g	-65.9	0.0	-29.0	0.0	90.0	0
+PI24H-26	PI24H	SO-CMD-NORTH	This study	g	-52.9	0.0	-41.0	0.0	90.0	0
+PI24H-27	PI24H	SO-CMD-NORTH	This study	g	263.1	0.0	-37.0	0.0	90.0	0
+PI24H-28	PI24H	SO-CMD-NORTH	This study	g	248.1	0.0	-41.0	0.0	90.0	0
+PI24H-29	PI24H	SO-CMD-NORTH	This study	g	-69.9	0.0	-31.0	0.0	90.0	0
+PI24H-30	PI24H	SO-CMD-NORTH	This study	g	166.1	0.0	-25.0	0.0	90.0	0
+PI24H-31	PI24H	SO-CMD-NORTH	This study	g	26.1	0.0	-11.0	0.0	90.0	0
+PI24H-32	PI24H	SO-CMD-NORTH	This study	g	41.1	0.0	-9.0	0.0	90.0	0
+PI24c-1	PI24c	SO-CMD-NORTH	This study	g	-51.0	-6.0	-62.0	0.0	84.0	0
+PI24c-2	PI24c	SO-CMD-NORTH	This study	g	-95.0	-6.0	-53.0	0.0	84.0	0
+PI24c-3	PI24c	SO-CMD-NORTH	This study	g	-73.0	-6.0	-81.0	0.0	84.0	0
+PI24c-4	PI24c	SO-CMD-NORTH	This study	g	-95.0	-6.0	-76.0	0.0	84.0	0
+PI24c-6	PI24c	SO-CMD-NORTH	This study	g	-51.0	-6.0	-102.0	0.0	84.0	0
+PI24c-7	PI24c	SO-CMD-NORTH	This study	g	254.0	-6.0	-112.0	0.0	84.0	0
+PI24c-8	PI24c	SO-CMD-NORTH	This study	g	230.0	-6.0	-102.0	0.0	84.0	0
+PI24m-10	PI24m	SO-CMD-NORTH	This study	g	-66.0	-6.0	-90.0	0.0	84.0	0
+PI24m-11	PI24m	SO-CMD-NORTH	This study	g	-75.0	-6.0	-72.0	0.0	84.0	0
+PI24m-12	PI24m	SO-CMD-NORTH	This study	g	-59.0	-6.0	-82.0	0.0	84.0	0
+PI24m-13	PI24m	SO-CMD-NORTH	This study	g	230.0	-6.0	-88.0	0.0	84.0	0
+PI24m-14	PI24m	SO-CMD-NORTH	This study	g	260.0	-6.0	-78.0	0.0	84.0	0
+PI24m-9	PI24m	SO-CMD-NORTH	This study	g	227.0	-6.0	-120.0	0.0	84.0	0
+PI26-1	PI26	SO-CMD-NORTH	This study	g	-11.0	-6.0	-23.0	0.0	84.0	0
+PI26-2	PI26	SO-CMD-NORTH	This study	g	-30.0	-6.0	-32.0	0.0	84.0	0
+PI26-3	PI26	SO-CMD-NORTH	This study	g	-7.0	-6.0	-48.0	0.0	84.0	0
+PI26-4	PI26	SO-CMD-NORTH	This study	g	36.0	-6.0	-61.0	0.0	84.0	0
+PI26-5	PI26	SO-CMD-NORTH	This study	g	50.0	-6.0	-22.0	0.0	84.0	0
+PI26-6	PI26	SO-CMD-NORTH	This study	g	44.0	-6.0	-25.0	0.0	84.0	0
+PI26-7	PI26	SO-CMD-NORTH	This study	g	-7.0	-6.0	-19.0	0.0	84.0	0
+PI26-8	PI26	SO-CMD-NORTH	This study	g	-43.0	-6.0	-25.0	0.0	84.0	0
+PI26-9	PI26	SO-CMD-NORTH	This study	g	-31.0	-6.0	-43.0	0.0	84.0	0
+PI2c-1	PI2c	SO-CMD-NORTH	This study	g	83.2	-5.8	-47.0	0.0	84.2	0
+PI2c-10	PI2c	SO-CMD-NORTH	This study	g	82.2	-5.8	-23.0	0.0	84.2	0
+PI2c-11	PI2c	SO-CMD-NORTH	This study	g	130.2	-5.8	-22.0	0.0	84.2	0
+PI2c-12	PI2c	SO-CMD-NORTH	This study	g	93.2	-5.8	-21.0	0.0	84.2	0
+PI2c-13	PI2c	SO-CMD-NORTH	This study	g	-36.8	-5.8	-46.0	0.0	84.2	0
+PI2c-14	PI2c	SO-CMD-NORTH	This study	g	-19.8	-5.8	-43.0	0.0	84.2	0
+PI2c-15	PI2c	SO-CMD-NORTH	This study	g	197.2	-5.8	-22.0	0.0	84.2	0
+PI2c-16	PI2c	SO-CMD-NORTH	This study	g	230.2	-5.8	-20.0	0.0	84.2	0
+PI2c-17	PI2c	SO-CMD-NORTH	This study	g	258.2	-5.8	-20.0	0.0	84.2	0
+PI2c-19	PI2c	SO-CMD-NORTH	This study	g	107.2	-5.8	-30.0	0.0	84.2	0
+PI2c-20	PI2c	SO-CMD-NORTH	This study	g	246.2	-5.8	-21.0	0.0	84.2	0
+PI2c-22	PI2c	SO-CMD-NORTH	This study	g	170.2	-5.8	-16.0	0.0	84.2	0
+PI2c-24	PI2c	SO-CMD-NORTH	This study	g	71.2	-5.8	-42.0	0.0	84.2	0
+PI2c-25	PI2c	SO-CMD-NORTH	This study	g	104.2	-5.8	-25.0	0.0	84.2	0
+PI2c-3	PI2c	SO-CMD-NORTH	This study	g	79.2	-5.8	-28.0	0.0	84.2	0
+PI2c-4	PI2c	SO-CMD-NORTH	This study	g	38.2	-5.8	-34.0	0.0	84.2	0
+PI2c-6	PI2c	SO-CMD-NORTH	This study	g	116.2	-5.8	-54.0	0.0	84.2	0
+PI2c-7	PI2c	SO-CMD-NORTH	This study	g	11.2	-5.8	-36.0	0.0	84.2	0
+PI2c-8	PI2c	SO-CMD-NORTH	This study	g	61.2	-5.8	-42.0	0.0	84.2	0
+PI2c-9	PI2c	SO-CMD-NORTH	This study	g	91.2	-5.8	-28.0	0.0	84.2	0
+PI2m-1	PI2m	SO-CMD-NORTH	This study	g	232.2	-5.8	-16.0	0.0	84.2	0
+PI2m-5	PI2m	SO-CMD-NORTH	This study	g	49.2	-5.8	-22.0	0.0	84.2	0
+PI2m-6	PI2m	SO-CMD-NORTH	This study	g	65.2	-5.8	-15.0	0.0	84.2	0
+PI2m-7	PI2m	SO-CMD-NORTH	This study	g	-2.8	-5.8	-29.0	0.0	84.2	0
+PI2m-8	PI2m	SO-CMD-NORTH	This study	g	31.2	-5.8	-64.0	0.0	84.2	0
+PI31-1	PI31	SO-CMD-NORTH	This study	g	151.0	-6.0	-39.0	0.0	84.0	0
+PI31-10	PI31	SO-CMD-NORTH	This study	g	135.0	-6.0	-74.0	0.0	84.0	0
+PI31-12	PI31	SO-CMD-NORTH	This study	g	-56.0	-6.0	-42.0	0.0	84.0	0
+PI31-13	PI31	SO-CMD-NORTH	This study	g	-69.0	-6.0	-36.0	0.0	84.0	0
+PI31-14	PI31	SO-CMD-NORTH	This study	g	-62.0	-6.0	-40.0	0.0	84.0	0
+PI31-16	PI31	SO-CMD-NORTH	This study	g	-19.0	-6.0	-15.0	0.0	84.0	0
+PI31-17	PI31	SO-CMD-NORTH	This study	g	84.0	-6.0	-52.0	0.0	84.0	0
+PI31-18	PI31	SO-CMD-NORTH	This study	g	52.0	-6.0	-46.0	0.0	84.0	0
+PI31-19	PI31	SO-CMD-NORTH	This study	g	-43.0	-6.0	-35.0	0.0	84.0	0
+PI31-2	PI31	SO-CMD-NORTH	This study	g	140.0	-6.0	-33.0	0.0	84.0	0
+PI31-20	PI31	SO-CMD-NORTH	This study	g	-38.0	-6.0	-29.0	0.0	84.0	0
+PI31-3	PI31	SO-CMD-NORTH	This study	g	53.0	-6.0	-64.0	0.0	84.0	0
+PI31-4	PI31	SO-CMD-NORTH	This study	g	-31.0	-6.0	-36.0	0.0	84.0	0
+PI31-5	PI31	SO-CMD-NORTH	This study	g	-77.0	-6.0	-46.0	0.0	84.0	0
+PI31-6	PI31	SO-CMD-NORTH	This study	g	-21.0	-6.0	-42.0	0.0	84.0	0
+PI31-8	PI31	SO-CMD-NORTH	This study	g	178.0	-6.0	-34.0	0.0	84.0	0
+PI31-9	PI31	SO-CMD-NORTH	This study	g	239.0	-6.0	-11.0	0.0	84.0	0
+PI32-1	PI32	SO-CMD-NORTH	This study	g	143.2	-5.8	-72.0	42.0	207.2	1.45
+PI32-2	PI32	SO-CMD-NORTH	This study	g	151.2	-5.8	-94.0	42.0	207.2	1.4
+PI32-3	PI32	SO-CMD-NORTH	This study	g	184.2	-5.8	-65.0	42.0	207.2	1.2
+PI32-4	PI32	SO-CMD-NORTH	This study	g	129.2	-5.8	-94.0	42.0	207.2	1.4
+PI32-5	PI32	SO-CMD-NORTH	This study	g	109.2	-5.8	-60.0	42.0	207.2	1.4
+PI32-6	PI32	SO-CMD-NORTH	This study	g	168.2	-5.8	-70.0	42.0	207.2	1.3
+PI32-7	PI32	SO-CMD-NORTH	This study	g	138.2	-5.8	-54.0	42.0	207.2	0.7
+PI32-8	PI32	SO-CMD-NORTH	This study	g	139.2	-5.8	-51.0	42.0	207.2	0.65
+PI32-9	PI32	SO-CMD-NORTH	This study	g	138.2	-5.8	-51.0	42.0	207.2	0.6
+PI33-1	PI33	SO-CMD-NORTH	This study	g	160.2	-5.8	-62.0	42.0	207.2	3.4
+PI33-2	PI33	SO-CMD-NORTH	This study	g	164.2	-5.8	-45.0	42.0	207.2	4.1
+PI33-3	PI33	SO-CMD-NORTH	This study	g	148.2	-5.8	-57.0	42.0	207.2	3.3
+PI33-5	PI33	SO-CMD-NORTH	This study	g	127.2	-5.8	-64.0	42.0	207.2	3.5
+PI33-6	PI33	SO-CMD-NORTH	This study	g	117.2	-5.8	-36.0	42.0	207.2	3.6
+PI34-1	PI34	SO-CMD-NORTH	This study	g	31.2	-5.8	-50.0	42.0	207.2	9.8
+PI34-2	PI34	SO-CMD-NORTH	This study	g	159.2	-5.8	-62.0	42.0	207.2	10.5
+PI34-3	PI34	SO-CMD-NORTH	This study	g	46.2	-5.8	-53.0	42.0	207.2	9.7
+PI34-4	PI34	SO-CMD-NORTH	This study	g	46.2	-5.8	-47.0	42.0	207.2	9.7
+PI34-5	PI34	SO-CMD-NORTH	This study	g	60.2	-5.8	-61.0	42.0	207.2	9.9
+PI34-6	PI34	SO-CMD-NORTH	This study	g	63.2	-5.8	-50.0	42.0	207.2	10.7
+PI34-7	PI34	SO-CMD-NORTH	This study	g	161.2	-5.8	-81.0	42.0	207.2	11.6
+PI34-8	PI34	SO-CMD-NORTH	This study	g	64.2	-5.8	-32.0	42.0	207.2	13.3
+PI44-1	PI44	SO-CMD-NORTH	This study	g	110.1	-5.9	-43.0	0.0	84.1	0
+PI44-10	PI44	SO-CMD-NORTH	This study	g	47.1	-5.9	-20.0	0.0	84.1	0
+PI44-12	PI44	SO-CMD-NORTH	This study	g	24.1	-5.9	-59.0	0.0	84.1	0
+PI44-13	PI44	SO-CMD-NORTH	This study	g	17.1	-5.9	-66.0	0.0	84.1	0
+PI44-2	PI44	SO-CMD-NORTH	This study	g	119.1	-5.9	-44.0	0.0	84.1	0
+PI44-3	PI44	SO-CMD-NORTH	This study	g	134.1	-5.9	-34.0	0.0	84.1	0
+PI44-4	PI44	SO-CMD-NORTH	This study	g	119.1	-5.9	-36.0	0.0	84.1	0
+PI44-5	PI44	SO-CMD-NORTH	This study	g	122.1	-5.9	-35.0	0.0	84.1	0
+PI44-6	PI44	SO-CMD-NORTH	This study	g	248.1	-5.9	-71.0	0.0	84.1	0
+PI44-7	PI44	SO-CMD-NORTH	This study	g	247.1	-5.9	-73.0	0.0	84.1	0
+PI44-8	PI44	SO-CMD-NORTH	This study	g	248.1	-5.9	-71.0	0.0	84.1	0
+PI44-9	PI44	SO-CMD-NORTH	This study	g	-6.9	-5.9	-28.0	0.0	84.1	0
+PI46-1	PI46	SO-CMD-NORTH	This study	g	210.1	-5.9	-58.0	0.0	84.1	0
+PI46-10	PI46	SO-CMD-NORTH	This study	g	177.1	-5.9	-67.0	0.0	84.1	0
+PI46-11	PI46	SO-CMD-NORTH	This study	g	174.1	-5.9	-66.0	0.0	84.1	0
+PI46-2	PI46	SO-CMD-NORTH	This study	g	-83.9	-5.9	-25.0	0.0	84.1	0
+PI46-3	PI46	SO-CMD-NORTH	This study	g	-84.9	-5.9	-40.0	0.0	84.1	0
+PI46-4	PI46	SO-CMD-NORTH	This study	g	-52.9	-5.9	-6.0	0.0	84.1	0
+PI46-5	PI46	SO-CMD-NORTH	This study	g	228.1	-5.9	-20.0	0.0	84.1	0
+PI46-6	PI46	SO-CMD-NORTH	This study	g	183.1	-5.9	-56.0	0.0	84.1	0
+PI46-7	PI46	SO-CMD-NORTH	This study	g	212.1	-5.9	-41.0	0.0	84.1	0
+PI46-8	PI46	SO-CMD-NORTH	This study	g	223.1	-5.9	-34.0	0.0	84.1	0
+PI46-9	PI46	SO-CMD-NORTH	This study	g	176.1	-5.9	-74.0	0.0	84.1	0
+PI47-1	PI47	SO-CMD-NORTH	This study	g	233.1	0.0	-16.0	0.0	90.0	0
+PI47-2	PI47	SO-CMD-NORTH	This study	g	251.1	0.0	-27.0	0.0	90.0	0
+PI47-3	PI47	SO-CMD-NORTH	This study	g	224.1	0.0	-13.0	0.0	90.0	0
+PI47-4	PI47	SO-CMD-NORTH	This study	g	113.1	0.0	-10.0	0.0	90.0	0
+PI47-5	PI47	SO-CMD-NORTH	This study	g	48.1	0.0	-16.0	0.0	90.0	0
+PI47-6	PI47	SO-CMD-NORTH	This study	g	60.1	0.0	-21.0	0.0	90.0	0
+PI47-7	PI47	SO-CMD-NORTH	This study	g	188.1	0.0	-47.0	0.0	90.0	0
+PI47-8	PI47	SO-CMD-NORTH	This study	g	198.1	0.0	-14.0	0.0	90.0	0
+PI47-9	PI47	SO-CMD-NORTH	This study	g	238.1	0.0	-21.0	0.0	90.0	0
+>>>>>>>>>>
+tab delimited	specimens
+specimen	sample	weight	citations
+DeI2-1a	DeI2-1	1.000e-03	This study
+DeI2-2a	DeI2-2	1.000e-03	This study
+DeI2-3a	DeI2-3	1.000e-03	This study
+DeI2-4a	DeI2-4	1.000e-03	This study
+DeI2-6a	DeI2-6	1.000e-03	This study
+DeI2-7a	DeI2-7	1.000e-03	This study
+PI15-10a	PI15-10	1.000e-03	This study
+PI15-2a	PI15-2	1.000e-03	This study
+PI15-6a	PI15-6	1.000e-03	This study
+PI15-7a	PI15-7	1.000e-03	This study
+PI15-8a	PI15-8	1.000e-03	This study
+PI16-10a	PI16-10	1.000e-03	This study
+PI16-10b	PI16-10	1.000e-03	This study
+PI16-11a	PI16-11	1.000e-03	This study
+PI16-11b	PI16-11	1.000e-03	This study
+PI16-12a	PI16-12	1.000e-03	This study
+PI16-12b	PI16-12	1.000e-03	This study
+PI16-13a	PI16-13	1.000e-03	This study
+PI16-13b	PI16-13	1.000e-03	This study
+PI16-14a	PI16-14	1.000e-03	This study
+PI16-14b	PI16-14	1.000e-03	This study
+PI16-15a	PI16-15	1.000e-03	This study
+PI16-16a	PI16-16	1.000e-03	This study
+PI16-16b	PI16-16	1.000e-03	This study
+PI16-17a	PI16-17	1.000e-03	This study
+PI16-17b	PI16-17	1.000e-03	This study
+PI16-18a	PI16-18	1.000e-03	This study
+PI16-19a	PI16-19	1.000e-03	This study
+PI16-19b	PI16-19	1.000e-03	This study
+PI16-1a	PI16-1	1.000e-03	This study
+PI16-1b	PI16-1	1.000e-03	This study
+PI16-20a	PI16-20	1.000e-03	This study
+PI16-20b	PI16-20	1.000e-03	This study
+PI16-21a	PI16-21	1.000e-03	This study
+PI16-22a	PI16-22	1.000e-03	This study
+PI16-23a	PI16-23	1.000e-03	This study
+PI16-23b	PI16-23	1.000e-03	This study
+PI16-24a	PI16-24	1.000e-03	This study
+PI16-2a	PI16-2	1.000e-03	This study
+PI16-2b	PI16-2	1.000e-03	This study
+PI16-3a	PI16-3	1.000e-03	This study
+PI16-3b	PI16-3	1.000e-03	This study
+PI16-4a	PI16-4	1.000e-03	This study
+PI16-4b	PI16-4	1.000e-03	This study
+PI16-6a	PI16-6	1.000e-03	This study
+PI16-6b	PI16-6	1.000e-03	This study
+PI16-7a	PI16-7	1.000e-03	This study
+PI16-7b	PI16-7	1.000e-03	This study
+PI16-8a	PI16-8	1.000e-03	This study
+PI16-9a	PI16-9	1.000e-03	This study
+PI16-9b	PI16-9	1.000e-03	This study
+PI16H-25a	PI16H-25	1.000e-03	This study
+PI16H-26a	PI16H-26	1.000e-03	This study
+PI16H-27a	PI16H-27	1.000e-03	This study
+PI16H-28a	PI16H-28	1.000e-03	This study
+PI16H-29a	PI16H-29	1.000e-03	This study
+PI16H-30a	PI16H-30	1.000e-03	This study
+PI22-10b	PI22-10	1.000e-03	This study
+PI22-11b	PI22-11	1.000e-03	This study
+PI22-12b	PI22-12	1.000e-03	This study
+PI22-13b	PI22-13	1.000e-03	This study
+PI22-14b	PI22-14	1.000e-03	This study
+PI22-15b	PI22-15	1.000e-03	This study
+PI22-1b	PI22-1	1.000e-03	This study
+PI22-2b	PI22-2	1.000e-03	This study
+PI22-3b	PI22-3	1.000e-03	This study
+PI22-4b	PI22-4	1.000e-03	This study
+PI22-5b	PI22-5	1.000e-03	This study
+PI22-6b	PI22-6	1.000e-03	This study
+PI22-7b	PI22-7	1.000e-03	This study
+PI22-8b	PI22-8	1.000e-03	This study
+PI22-9b	PI22-9	1.000e-03	This study
+PI22H-16a	PI22H-16	1.000e-03	This study
+PI22H-17a	PI22H-17	1.000e-03	This study
+PI22H-18a	PI22H-18	1.000e-03	This study
+PI22H-19a	PI22H-19	1.000e-03	This study
+PI22H-20a	PI22H-20	1.000e-03	This study
+PI22H-21a	PI22H-21	1.000e-03	This study
+PI22H-22a	PI22H-22	1.000e-03	This study
+PI22H-23a	PI22H-23	1.000e-03	This study
+PI22H-24a	PI22H-24	1.000e-03	This study
+PI22H-25a	PI22H-25	1.000e-03	This study
+PI22H-26a	PI22H-26	1.000e-03	This study
+PI22H-27a	PI22H-27	1.000e-03	This study
+PI22H-28a	PI22H-28	1.000e-03	This study
+PI22H-29a	PI22H-29	1.000e-03	This study
+PI22H-30a	PI22H-30	1.000e-03	This study
+PI22H-31a	PI22H-31	1.000e-03	This study
+PI22H-32a	PI22H-32	1.000e-03	This study
+PI24H-16a	PI24H-16	1.000e-03	This study
+PI24H-17a	PI24H-17	1.000e-03	This study
+PI24H-18a	PI24H-18	1.000e-03	This study
+PI24H-19a	PI24H-19	1.000e-03	This study
+PI24H-20a	PI24H-20	1.000e-03	This study
+PI24H-21a	PI24H-21	1.000e-03	This study
+PI24H-22a	PI24H-22	1.000e-03	This study
+PI24H-23a	PI24H-23	1.000e-03	This study
+PI24H-24a	PI24H-24	1.000e-03	This study
+PI24H-25a	PI24H-25	1.000e-03	This study
+PI24H-26a	PI24H-26	1.000e-03	This study
+PI24H-27a	PI24H-27	1.000e-03	This study
+PI24H-28a	PI24H-28	1.000e-03	This study
+PI24H-29a	PI24H-29	1.000e-03	This study
+PI24H-30a	PI24H-30	1.000e-03	This study
+PI24H-31a	PI24H-31	1.000e-03	This study
+PI24H-32a	PI24H-32	1.000e-03	This study
+PI24c-1b	PI24c-1	1.000e-03	This study
+PI24c-2b	PI24c-2	1.000e-03	This study
+PI24c-3b	PI24c-3	1.000e-03	This study
+PI24c-4b	PI24c-4	1.000e-03	This study
+PI24c-6b	PI24c-6	1.000e-03	This study
+PI24c-7b	PI24c-7	1.000e-03	This study
+PI24c-8b	PI24c-8	1.000e-03	This study
+PI24m-10b	PI24m-10	1.000e-03	This study
+PI24m-11b	PI24m-11	1.000e-03	This study
+PI24m-12b	PI24m-12	1.000e-03	This study
+PI24m-13b	PI24m-13	1.000e-03	This study
+PI24m-14b	PI24m-14	1.000e-03	This study
+PI24m-9b	PI24m-9	1.000e-03	This study
+PI26-1b	PI26-1	1.000e-03	This study
+PI26-2b	PI26-2	1.000e-03	This study
+PI26-3b	PI26-3	1.000e-03	This study
+PI26-4b	PI26-4	1.000e-03	This study
+PI26-5b	PI26-5	1.000e-03	This study
+PI26-6b	PI26-6	1.000e-03	This study
+PI26-7b	PI26-7	1.000e-03	This study
+PI26-8b	PI26-8	1.000e-03	This study
+PI26-9b	PI26-9	1.000e-03	This study
+PI2c-10a	PI2c-10	1.000e-03	This study
+PI2c-11a	PI2c-11	1.000e-03	This study
+PI2c-12a	PI2c-12	1.000e-03	This study
+PI2c-13a	PI2c-13	1.000e-03	This study
+PI2c-14a	PI2c-14	1.000e-03	This study
+PI2c-15a	PI2c-15	1.000e-03	This study
+PI2c-16a	PI2c-16	1.000e-03	This study
+PI2c-17a	PI2c-17	1.000e-03	This study
+PI2c-19a	PI2c-19	1.000e-03	This study
+PI2c-1a	PI2c-1	1.000e-03	This study
+PI2c-20a	PI2c-20	1.000e-03	This study
+PI2c-22a	PI2c-22	1.000e-03	This study
+PI2c-24a	PI2c-24	1.000e-03	This study
+PI2c-25a	PI2c-25	1.000e-03	This study
+PI2c-3a	PI2c-3	1.000e-03	This study
+PI2c-4a	PI2c-4	1.000e-03	This study
+PI2c-6a	PI2c-6	1.000e-03	This study
+PI2c-7a	PI2c-7	1.000e-03	This study
+PI2c-8a	PI2c-8	1.000e-03	This study
+PI2c-9a	PI2c-9	1.000e-03	This study
+PI2m-1b	PI2m-1	1.000e-03	This study
+PI2m-5b	PI2m-5	1.000e-03	This study
+PI2m-6b	PI2m-6	1.000e-03	This study
+PI2m-7b	PI2m-7	1.000e-03	This study
+PI2m-8b	PI2m-8	1.000e-03	This study
+PI31-10b	PI31-10	1.000e-03	This study
+PI31-12b	PI31-12	1.000e-03	This study
+PI31-13b	PI31-13	1.000e-03	This study
+PI31-14b	PI31-14	1.000e-03	This study
+PI31-16b	PI31-16	1.000e-03	This study
+PI31-17b	PI31-17	1.000e-03	This study
+PI31-18b	PI31-18	1.000e-03	This study
+PI31-19b	PI31-19	1.000e-03	This study
+PI31-1b	PI31-1	1.000e-03	This study
+PI31-20b	PI31-20	1.000e-03	This study
+PI31-2b	PI31-2	1.000e-03	This study
+PI31-3b	PI31-3	1.000e-03	This study
+PI31-4b	PI31-4	1.000e-03	This study
+PI31-5b	PI31-5	1.000e-03	This study
+PI31-6b	PI31-6	1.000e-03	This study
+PI31-8b	PI31-8	1.000e-03	This study
+PI31-9b	PI31-9	1.000e-03	This study
+PI32-1b	PI32-1	1.000e-03	This study
+PI32-2b	PI32-2	1.000e-03	This study
+PI32-3b	PI32-3	1.000e-03	This study
+PI32-4b	PI32-4	1.000e-03	This study
+PI32-5b	PI32-5	1.000e-03	This study
+PI32-6b	PI32-6	1.000e-03	This study
+PI32-7b	PI32-7	1.000e-03	This study
+PI32-8b	PI32-8	1.000e-03	This study
+PI32-9b	PI32-9	1.000e-03	This study
+PI33-1b	PI33-1	1.000e-03	This study
+PI33-2b	PI33-2	1.000e-03	This study
+PI33-3b	PI33-3	1.000e-03	This study
+PI33-5b	PI33-5	1.000e-03	This study
+PI33-6b	PI33-6	1.000e-03	This study
+PI34-1b	PI34-1	1.000e-03	This study
+PI34-2b	PI34-2	1.000e-03	This study
+PI34-3b	PI34-3	1.000e-03	This study
+PI34-4b	PI34-4	1.000e-03	This study
+PI34-5b	PI34-5	1.000e-03	This study
+PI34-6b	PI34-6	1.000e-03	This study
+PI34-7b	PI34-7	1.000e-03	This study
+PI34-8b	PI34-8	1.000e-03	This study
+PI44-10b	PI44-10	1.000e-03	This study
+PI44-12b	PI44-12	1.000e-03	This study
+PI44-13b	PI44-13	1.000e-03	This study
+PI44-1b	PI44-1	1.000e-03	This study
+PI44-2b	PI44-2	1.000e-03	This study
+PI44-3b	PI44-3	1.000e-03	This study
+PI44-4b	PI44-4	1.000e-03	This study
+PI44-5b	PI44-5	1.000e-03	This study
+PI44-6b	PI44-6	1.000e-03	This study
+PI44-7b	PI44-7	1.000e-03	This study
+PI44-8b	PI44-8	1.000e-03	This study
+PI44-9b	PI44-9	1.000e-03	This study
+PI46-10b	PI46-10	1.000e-03	This study
+PI46-11b	PI46-11	1.000e-03	This study
+PI46-1b	PI46-1	1.000e-03	This study
+PI46-2b	PI46-2	1.000e-03	This study
+PI46-3b	PI46-3	1.000e-03	This study
+PI46-4b	PI46-4	1.000e-03	This study
+PI46-5b	PI46-5	1.000e-03	This study
+PI46-6b	PI46-6	1.000e-03	This study
+PI46-7b	PI46-7	1.000e-03	This study
+PI46-8b	PI46-8	1.000e-03	This study
+PI46-9b	PI46-9	1.000e-03	This study
+PI47-1a	PI47-1	1.000e-03	This study
+PI47-2a	PI47-2	1.000e-03	This study
+PI47-3a	PI47-3	1.000e-03	This study
+PI47-4a	PI47-4	1.000e-03	This study
+PI47-5a	PI47-5	1.000e-03	This study
+PI47-6a	PI47-6	1.000e-03	This study
+PI47-7a	PI47-7	1.000e-03	This study
+PI47-8a	PI47-8	1.000e-03	This study
+PI47-9a	PI47-9	1.000e-03	This study

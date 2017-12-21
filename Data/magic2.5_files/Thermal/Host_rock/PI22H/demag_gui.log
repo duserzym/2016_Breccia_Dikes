@@ -1,0 +1,26 @@
+start gui
+ -I- cant find zeq_gui_preferences file, using defualt default
+-W- Cant find er_locations.txt in project directory-W- Cant find er_ages in project directory-I- Read magic file  /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/magic_measurements.txt
+-I- Reading previous interpretations from pmag* tables
+-I- Read old magic file  /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_specimens.txt
+-I- Delete old magic file  /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_specimens.txt
+specimen data stored in /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_specimens.txt
+-I- Read old magic file  /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_samples.txt
+-I- Read old magic file  /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_sites.txt
+-I- Delete old magic file  /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_sites.txt
+-I- Read old magic file  /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_results.txt
+-I- Delete old magic file  /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_results.txt
+write new interpretations in /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_sites.txt
+write new interpretations in /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_results.txt
+-I- Reading previous interpretations from pmag* tables
+-I- Read old magic file  /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_specimens.txt
+-I- Delete old magic file  /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_specimens.txt
+specimen data stored in /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_specimens.txt
+-I- Read old magic file  /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_samples.txt
+-I- Read old magic file  /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_sites.txt
+-I- Delete old magic file  /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_sites.txt
+-I- Read old magic file  /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_results.txt
+-I- Delete old magic file  /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_results.txt
+write new interpretations in /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_sites.txt
+write new interpretations in /Users/lukefairchild765/GitHub_files/2015_Breccia_Dikes/Data/magic_files/Thermal/Host_rock/PI22H/pmag_results.txt
+-I- Reading previous interpretations from pmag* tables

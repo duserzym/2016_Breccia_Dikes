@@ -1,0 +1,226 @@
+tab 	er_samples
+er_citation_names	er_location_name	er_sample_name	er_site_name	magic_method_codes	sample_azimuth	sample_bed_dip	sample_bed_dip_direction	sample_class	sample_declination_correction	sample_dip	sample_height	sample_lithology	sample_type
+This study	unknown	DeI2-1	DeI2	SO-CMD-NORTH	-5.8	0.0	84.2		-5.8	-39.0	0		
+This study	unknown	DeI2-2	DeI2	SO-CMD-NORTH	-1.8	0.0	84.2		-5.8	-27.0	0		
+This study	unknown	DeI2-3	DeI2	SO-CMD-NORTH	-6.8	0.0	84.2		-5.8	-28.0	0		
+This study	unknown	DeI2-4	DeI2	SO-CMD-NORTH	-7.8	0.0	84.2		-5.8	-28.0	0		
+This study	unknown	DeI2-6	DeI2	SO-CMD-NORTH	155.2	0.0	84.2		-5.8	-20.0	0		
+This study	unknown	DeI2-7	DeI2	SO-CMD-NORTH	75.2	0.0	84.2		-5.8	-17.0	0		
+This study	unknown	PI15-2	PI15	SO-CMD-NORTH	-32.8	0.0	84.2		-5.8	-42.0	0		
+This study	unknown	PI15-6	PI15	SO-CMD-NORTH	-5.8	0.0	84.2		-5.8	-87.0	0		
+This study	unknown	PI15-7	PI15	SO-CMD-NORTH	7.2	0.0	84.2		-5.8	-78.0	0		
+This study	unknown	PI15-8	PI15	SO-CMD-NORTH	3.2	0.0	84.2		-5.8	-74.0	0		
+This study	unknown	PI15-10	PI15	SO-CMD-NORTH	18.2	0.0	84.2		-5.8	-83.0	0		
+This study	Slate Islands	PI16-1	PI16	SO-CMD-NORTH	237.2	0.0	84.2		-5.8	-72.0	0		
+This study	Slate Islands	PI16-2	PI16	SO-CMD-NORTH	211.2	0.0	84.2		-5.8	-45.0	0		
+This study	Slate Islands	PI16-3	PI16	SO-CMD-NORTH	232.2	0.0	84.2		-5.8	-80.0	0		
+This study	Slate Islands	PI16-4	PI16	SO-CMD-NORTH	242.2	0.0	84.2		-5.8	-59.0	0		
+This study	Slate Islands	PI16-6	PI16	SO-CMD-NORTH	-93.8	0.0	84.2		-5.8	-41.0	0		
+This study	Slate Islands	PI16-7	PI16	SO-CMD-NORTH	-55.8	0.0	84.2		-5.8	-25.0	0		
+This study	Slate Islands	PI16-9	PI16	SO-CMD-NORTH	-77.8	0.0	84.2		-5.8	-52.0	0		
+This study	Slate Islands	PI16-10	PI16	SO-CMD-NORTH	240.2	0.0	84.2		-5.8	-26.0	0		
+This study	Slate Islands	PI16-11	PI16	SO-CMD-NORTH	236.2	0.0	84.2		-5.8	-54.0	0		
+This study	Slate Islands	PI16-12	PI16	SO-CMD-NORTH	229.2	0.0	84.2		-5.8	-39.0	0		
+This study	Slate Islands	PI16-13	PI16	SO-CMD-NORTH	-77.8	0.0	84.2		-5.8	-32.0	0		
+This study	Slate Islands	PI16-14	PI16	SO-CMD-NORTH	111.2	0.0	84.2		-5.8	-45.0	0		
+This study	Slate Islands	PI16-16	PI16	SO-CMD-NORTH	254.2	0.0	84.2		-5.8	-39.0	0		
+This study	Slate Islands	PI16-17	PI16	SO-CMD-NORTH	210.2	0.0	84.2		-5.8	-38.0	0		
+This study	Slate Islands	PI16-19	PI16	SO-CMD-NORTH	83.2	0.0	84.2		-5.8	-22.0	0		
+This study	Slate Islands	PI16-20	PI16	SO-CMD-NORTH	204.2	0.0	84.2		-5.8	-35.0	0		
+This study	Slate Islands	PI16-23	PI16	SO-CMD-NORTH	244.2	0.0	84.2		-5.8	-18.0	0		
+This study	unknown	PI16-1	PI16	SO-CMD-NORTH	237.2	0.0	84.2		-5.8	-72.0	0		
+This study	unknown	PI16-2	PI16	SO-CMD-NORTH	211.2	0.0	84.2		-5.8	-45.0	0		
+This study	unknown	PI16-3	PI16	SO-CMD-NORTH	232.2	0.0	84.2		-5.8	-80.0	0		
+This study	unknown	PI16-4	PI16	SO-CMD-NORTH	242.2	0.0	84.2		-5.8	-59.0	0		
+This study	unknown	PI16-6	PI16	SO-CMD-NORTH	-93.8	0.0	84.2		-5.8	-41.0	0		
+This study	unknown	PI16-7	PI16	SO-CMD-NORTH	-55.8	0.0	84.2		-5.8	-25.0	0		
+This study	unknown	PI16-8	PI16	SO-CMD-NORTH	242.2	0.0	84.2		-5.8	-43.0	0		
+This study	unknown	PI16-9	PI16	SO-CMD-NORTH	-77.8	0.0	84.2		-5.8	-52.0	0		
+This study	unknown	PI16-10	PI16	SO-CMD-NORTH	240.2	0.0	84.2		-5.8	-26.0	0		
+This study	unknown	PI16-11	PI16	SO-CMD-NORTH	236.2	0.0	84.2		-5.8	-54.0	0		
+This study	unknown	PI16-12	PI16	SO-CMD-NORTH	229.2	0.0	84.2		-5.8	-39.0	0		
+This study	unknown	PI16-13	PI16	SO-CMD-NORTH	-77.8	0.0	84.2		-5.8	-32.0	0		
+This study	unknown	PI16-14	PI16	SO-CMD-NORTH	111.2	0.0	84.2		-5.8	-45.0	0		
+This study	unknown	PI16-15	PI16	SO-CMD-NORTH	182.2	0.0	84.2		-5.8	-42.0	0		
+This study	unknown	PI16-16	PI16	SO-CMD-NORTH	254.2	0.0	84.2		-5.8	-39.0	0		
+This study	unknown	PI16-17	PI16	SO-CMD-NORTH	210.2	0.0	84.2		-5.8	-38.0	0		
+This study	unknown	PI16-18	PI16	SO-CMD-NORTH	69.2	0.0	84.2		-5.8	-35.0	0		
+This study	unknown	PI16-19	PI16	SO-CMD-NORTH	83.2	0.0	84.2		-5.8	-22.0	0		
+This study	unknown	PI16-20	PI16	SO-CMD-NORTH	204.2	0.0	84.2		-5.8	-35.0	0		
+This study	unknown	PI16-21	PI16	SO-CMD-NORTH	243.2	0.0	84.2		-5.8	-46.0	0		
+This study	unknown	PI16-22	PI16	SO-CMD-NORTH	237.2	0.0	84.2		-5.8	-33.0	0		
+This study	unknown	PI16-23	PI16	SO-CMD-NORTH	244.2	0.0	84.2		-5.8	-18.0	0		
+This study	unknown	PI16-24	PI16	SO-CMD-NORTH	262.2	0.0	84.2		-5.8	-42.0	0		
+This study	unknown	PI16H-25	PI16H	SO-CMD-NORTH	143.1	0.0	90.0		0.0	-10.0	0		
+This study	unknown	PI16H-26	PI16H	SO-CMD-NORTH	-58.9	0.0	90.0		0.0	-35.0	0		
+This study	unknown	PI16H-27	PI16H	SO-CMD-NORTH	-68.9	0.0	90.0		0.0	-12.0	0		
+This study	unknown	PI16H-28	PI16H	SO-CMD-NORTH	253.1	0.0	90.0		0.0	-48.0	0		
+This study	unknown	PI16H-29	PI16H	SO-CMD-NORTH	255.1	0.0	90.0		0.0	-18.0	0		
+This study	unknown	PI16H-30	PI16H	SO-CMD-NORTH	251.1	0.0	90.0		0.0	-22.0	0		
+This study	unknown	PI22-1	PI22	SO-CMD-NORTH	-7.0	0.0	84.0		-6.0	-33.0	0		
+This study	unknown	PI22-2	PI22	SO-CMD-NORTH	244.0	0.0	84.0		-6.0	-25.0	0		
+This study	unknown	PI22-3	PI22	SO-CMD-NORTH	-43.0	0.0	84.0		-6.0	-50.0	0		
+This study	unknown	PI22-4	PI22	SO-CMD-NORTH	-43.0	0.0	84.0		-6.0	-36.0	0		
+This study	unknown	PI22-5	PI22	SO-CMD-NORTH	-91.0	0.0	84.0		-6.0	-28.0	0		
+This study	unknown	PI22-6	PI22	SO-CMD-NORTH	-68.0	0.0	84.0		-6.0	-28.0	0		
+This study	unknown	PI22-7	PI22	SO-CMD-NORTH	-39.0	0.0	84.0		-6.0	-48.0	0		
+This study	unknown	PI22-8	PI22	SO-CMD-NORTH	-49.0	0.0	84.0		-6.0	-46.0	0		
+This study	unknown	PI22-9	PI22	SO-CMD-NORTH	62.0	0.0	84.0		-6.0	-28.0	0		
+This study	unknown	PI22-10	PI22	SO-CMD-NORTH	145.0	0.0	84.0		-6.0	-26.0	0		
+This study	unknown	PI22-11	PI22	SO-CMD-NORTH	93.0	0.0	84.0		-6.0	-37.0	0		
+This study	unknown	PI22-12	PI22	SO-CMD-NORTH	129.0	0.0	84.0		-6.0	-30.0	0		
+This study	unknown	PI22-13	PI22	SO-CMD-NORTH	-45.0	0.0	84.0		-6.0	-22.0	0		
+This study	unknown	PI22-14	PI22	SO-CMD-NORTH	-96.0	0.0	84.0		-6.0	-47.0	0		
+This study	unknown	PI22-15	PI22	SO-CMD-NORTH	209.0	0.0	84.0		-6.0	-28.0	0		
+This study	unknown	PI22H-16	PI22H	SO-CMD-NORTH	-55.7	0.0	90.0		0.0	-65.0	0		
+This study	unknown	PI22H-17	PI22H	SO-CMD-NORTH	-26.3	0.0	90.0		0.0	-99.0	0		
+This study	unknown	PI22H-18	PI22H	SO-CMD-NORTH	-22.0	0.0	90.0		0.0	-50.0	0		
+This study	unknown	PI22H-19	PI22H	SO-CMD-NORTH	-50.1	0.0	90.0		0.0	-24.0	0		
+This study	unknown	PI22H-20	PI22H	SO-CMD-NORTH	18.6	0.0	90.0		0.0	-70.0	0		
+This study	unknown	PI22H-21	PI22H	SO-CMD-NORTH	-52.5	0.0	90.0		0.0	-37.0	0		
+This study	unknown	PI22H-22	PI22H	SO-CMD-NORTH	264.4	0.0	90.0		0.0	-26.0	0		
+This study	unknown	PI22H-23	PI22H	SO-CMD-NORTH	232.4	0.0	90.0		0.0	-22.0	0		
+This study	unknown	PI22H-24	PI22H	SO-CMD-NORTH	100.8	0.0	90.0		0.0	-24.0	0		
+This study	unknown	PI22H-25	PI22H	SO-CMD-NORTH	234.8	0.0	90.0		0.0	-35.0	0		
+This study	unknown	PI22H-26	PI22H	SO-CMD-NORTH	-81.8	0.0	90.0		0.0	-25.0	0		
+This study	unknown	PI22H-27	PI22H	SO-CMD-NORTH	174.1	0.0	90.0		0.0	-39.0	0		
+This study	unknown	PI22H-28	PI22H	SO-CMD-NORTH	167.1	0.0	90.0		0.0	-64.0	0		
+This study	unknown	PI22H-29	PI22H	SO-CMD-NORTH	163.1	0.0	90.0		0.0	-56.0	0		
+This study	unknown	PI22H-30	PI22H	SO-CMD-NORTH	-16.2	0.0	90.0		0.0	-43.0	0		
+This study	unknown	PI22H-31	PI22H	SO-CMD-NORTH	-6.9	0.0	90.0		0.0	-38.0	0		
+This study	unknown	PI22H-32	PI22H	SO-CMD-NORTH	-25.9	0.0	90.0		0.0	-78.0	0		
+This study	Slate Islands	PI24c-1	PI24c	SO-CMD-NORTH	-51.0	0.0	84.0		-6.0	-62.0	0		
+This study	Slate Islands	PI24c-2	PI24c	SO-CMD-NORTH	-95.0	0.0	84.0		-6.0	-53.0	0		
+This study	Slate Islands	PI24c-3	PI24c	SO-CMD-NORTH	-73.0	0.0	84.0		-6.0	-81.0	0		
+This study	Slate Islands	PI24c-4	PI24c	SO-CMD-NORTH	-95.0	0.0	84.0		-6.0	-76.0	0		
+This study	Slate Islands	PI24c-6	PI24c	SO-CMD-NORTH	-51.0	0.0	84.0		-6.0	-102.0	0		
+This study	Slate Islands	PI24c-7	PI24c	SO-CMD-NORTH	254.0	0.0	84.0		-6.0	-112.0	0		
+This study	Slate Islands	PI24c-8	PI24c	SO-CMD-NORTH	230.0	0.0	84.0		-6.0	-102.0	0		
+This study	unknown	PI24H-16	PI24H	SO-CMD-NORTH	-62.9	0.0	90.0		0.0	-64.0	0		
+This study	unknown	PI24H-17	PI24H	SO-CMD-NORTH	-78.7	0.0	90.0		0.0	-67.0	0		
+This study	unknown	PI24H-18	PI24H	SO-CMD-NORTH	-51.9	0.0	90.0		0.0	-87.0	0		
+This study	unknown	PI24H-19	PI24H	SO-CMD-NORTH	-90.9	0.0	90.0		0.0	-45.0	0		
+This study	unknown	PI24H-20	PI24H	SO-CMD-NORTH	233.1	0.0	90.0		0.0	-43.0	0		
+This study	unknown	PI24H-21	PI24H	SO-CMD-NORTH	-48.0	0.0	90.0		0.0	-72.0	0		
+This study	unknown	PI24H-22	PI24H	SO-CMD-NORTH	-49.9	0.0	90.0		0.0	-83.0	0		
+This study	unknown	PI24H-23	PI24H	SO-CMD-NORTH	259.9	0.0	90.0		0.0	-53.0	0		
+This study	unknown	PI24H-24	PI24H	SO-CMD-NORTH	239.5	0.0	90.0		0.0	-47.0	0		
+This study	unknown	PI24H-25	PI24H	SO-CMD-NORTH	-65.9	0.0	90.0		0.0	-29.0	0		
+This study	unknown	PI24H-26	PI24H	SO-CMD-NORTH	-52.9	0.0	90.0		0.0	-41.0	0		
+This study	unknown	PI24H-27	PI24H	SO-CMD-NORTH	263.1	0.0	90.0		0.0	-37.0	0		
+This study	unknown	PI24H-28	PI24H	SO-CMD-NORTH	248.1	0.0	90.0		0.0	-41.0	0		
+This study	unknown	PI24H-29	PI24H	SO-CMD-NORTH	-69.9	0.0	90.0		0.0	-31.0	0		
+This study	unknown	PI24H-30	PI24H	SO-CMD-NORTH	166.1	0.0	90.0		0.0	-25.0	0		
+This study	unknown	PI24H-31	PI24H	SO-CMD-NORTH	26.1	0.0	90.0		0.0	-11.0	0		
+This study	unknown	PI24H-32	PI24H	SO-CMD-NORTH	41.1	0.0	90.0		0.0	-9.0	0		
+This study	Slate Islands	PI24m-9	PI24m	SO-CMD-NORTH	227.0	0.0	84.0		-6.0	-120.0	0		
+This study	Slate Islands	PI24m-10	PI24m	SO-CMD-NORTH	-66.0	0.0	84.0		-6.0	-90.0	0		
+This study	Slate Islands	PI24m-11	PI24m	SO-CMD-NORTH	-75.0	0.0	84.0		-6.0	-72.0	0		
+This study	Slate Islands	PI24m-12	PI24m	SO-CMD-NORTH	-59.0	0.0	84.0		-6.0	-82.0	0		
+This study	Slate Islands	PI24m-13	PI24m	SO-CMD-NORTH	230.0	0.0	84.0		-6.0	-88.0	0		
+This study	Slate Islands	PI24m-14	PI24m	SO-CMD-NORTH	260.0	0.0	84.0		-6.0	-78.0	0		
+This study	unknown	PI26-1	PI26	SO-CMD-NORTH	-11.0	0.0	84.0		-6.0	-23.0	0		
+This study	unknown	PI26-2	PI26	SO-CMD-NORTH	-30.0	0.0	84.0		-6.0	-32.0	0		
+This study	unknown	PI26-3	PI26	SO-CMD-NORTH	-7.0	0.0	84.0		-6.0	-48.0	0		
+This study	unknown	PI26-4	PI26	SO-CMD-NORTH	36.0	0.0	84.0		-6.0	-61.0	0		
+This study	unknown	PI26-5	PI26	SO-CMD-NORTH	50.0	0.0	84.0		-6.0	-22.0	0		
+This study	unknown	PI26-6	PI26	SO-CMD-NORTH	44.0	0.0	84.0		-6.0	-25.0	0		
+This study	unknown	PI26-7	PI26	SO-CMD-NORTH	-7.0	0.0	84.0		-6.0	-19.0	0		
+This study	unknown	PI26-8	PI26	SO-CMD-NORTH	-43.0	0.0	84.0		-6.0	-25.0	0		
+This study	unknown	PI26-9	PI26	SO-CMD-NORTH	-31.0	0.0	84.0		-6.0	-43.0	0		
+This study	unknown	PI2c-1	PI2c	SO-CMD-NORTH	83.2	0.0	84.2		-5.8	-47.0	0		
+This study	unknown	PI2c-3	PI2c	SO-CMD-NORTH	79.2	0.0	84.2		-5.8	-28.0	0		
+This study	unknown	PI2c-4	PI2c	SO-CMD-NORTH	38.2	0.0	84.2		-5.8	-34.0	0		
+This study	unknown	PI2c-6	PI2c	SO-CMD-NORTH	116.2	0.0	84.2		-5.8	-54.0	0		
+This study	unknown	PI2c-7	PI2c	SO-CMD-NORTH	11.2	0.0	84.2		-5.8	-36.0	0		
+This study	unknown	PI2c-8	PI2c	SO-CMD-NORTH	61.2	0.0	84.2		-5.8	-42.0	0		
+This study	unknown	PI2c-9	PI2c	SO-CMD-NORTH	91.2	0.0	84.2		-5.8	-28.0	0		
+This study	unknown	PI2c-10	PI2c	SO-CMD-NORTH	82.2	0.0	84.2		-5.8	-23.0	0		
+This study	unknown	PI2c-11	PI2c	SO-CMD-NORTH	130.2	0.0	84.2		-5.8	-22.0	0		
+This study	unknown	PI2c-12	PI2c	SO-CMD-NORTH	93.2	0.0	84.2		-5.8	-21.0	0		
+This study	unknown	PI2c-13	PI2c	SO-CMD-NORTH	-36.8	0.0	84.2		-5.8	-46.0	0		
+This study	unknown	PI2c-14	PI2c	SO-CMD-NORTH	-19.8	0.0	84.2		-5.8	-43.0	0		
+This study	unknown	PI2c-15	PI2c	SO-CMD-NORTH	197.2	0.0	84.2		-5.8	-22.0	0		
+This study	unknown	PI2c-16	PI2c	SO-CMD-NORTH	230.2	0.0	84.2		-5.8	-20.0	0		
+This study	unknown	PI2c-17	PI2c	SO-CMD-NORTH	258.2	0.0	84.2		-5.8	-20.0	0		
+This study	unknown	PI2c-19	PI2c	SO-CMD-NORTH	107.2	0.0	84.2		-5.8	-30.0	0		
+This study	unknown	PI2c-20	PI2c	SO-CMD-NORTH	246.2	0.0	84.2		-5.8	-21.0	0		
+This study	unknown	PI2c-22	PI2c	SO-CMD-NORTH	170.2	0.0	84.2		-5.8	-16.0	0		
+This study	unknown	PI2c-24	PI2c	SO-CMD-NORTH	71.2	0.0	84.2		-5.8	-42.0	0		
+This study	unknown	PI2c-25	PI2c	SO-CMD-NORTH	104.2	0.0	84.2		-5.8	-25.0	0		
+This study	unknown	PI2m-1	PI2m	SO-CMD-NORTH	232.2	0.0	84.2		-5.8	-16.0	0		
+This study	unknown	PI2m-5	PI2m	SO-CMD-NORTH	49.2	0.0	84.2		-5.8	-22.0	0		
+This study	unknown	PI2m-6	PI2m	SO-CMD-NORTH	65.2	0.0	84.2		-5.8	-15.0	0		
+This study	unknown	PI2m-7	PI2m	SO-CMD-NORTH	-2.8	0.0	84.2		-5.8	-29.0	0		
+This study	unknown	PI2m-8	PI2m	SO-CMD-NORTH	31.2	0.0	84.2		-5.8	-64.0	0		
+This study	unknown	PI31-1	PI31	SO-CMD-NORTH	151.0	0.0	84.0		-6.0	-39.0	0		
+This study	unknown	PI31-2	PI31	SO-CMD-NORTH	140.0	0.0	84.0		-6.0	-33.0	0		
+This study	unknown	PI31-3	PI31	SO-CMD-NORTH	53.0	0.0	84.0		-6.0	-64.0	0		
+This study	unknown	PI31-4	PI31	SO-CMD-NORTH	-31.0	0.0	84.0		-6.0	-36.0	0		
+This study	unknown	PI31-5	PI31	SO-CMD-NORTH	-77.0	0.0	84.0		-6.0	-46.0	0		
+This study	unknown	PI31-6	PI31	SO-CMD-NORTH	-21.0	0.0	84.0		-6.0	-42.0	0		
+This study	unknown	PI31-8	PI31	SO-CMD-NORTH	178.0	0.0	84.0		-6.0	-34.0	0		
+This study	unknown	PI31-9	PI31	SO-CMD-NORTH	239.0	0.0	84.0		-6.0	-11.0	0		
+This study	unknown	PI31-10	PI31	SO-CMD-NORTH	135.0	0.0	84.0		-6.0	-74.0	0		
+This study	unknown	PI31-12	PI31	SO-CMD-NORTH	-56.0	0.0	84.0		-6.0	-42.0	0		
+This study	unknown	PI31-13	PI31	SO-CMD-NORTH	-69.0	0.0	84.0		-6.0	-36.0	0		
+This study	unknown	PI31-14	PI31	SO-CMD-NORTH	-62.0	0.0	84.0		-6.0	-40.0	0		
+This study	unknown	PI31-16	PI31	SO-CMD-NORTH	-19.0	0.0	84.0		-6.0	-15.0	0		
+This study	unknown	PI31-17	PI31	SO-CMD-NORTH	84.0	0.0	84.0		-6.0	-52.0	0		
+This study	unknown	PI31-18	PI31	SO-CMD-NORTH	52.0	0.0	84.0		-6.0	-46.0	0		
+This study	unknown	PI31-19	PI31	SO-CMD-NORTH	-43.0	0.0	84.0		-6.0	-35.0	0		
+This study	unknown	PI31-20	PI31	SO-CMD-NORTH	-38.0	0.0	84.0		-6.0	-29.0	0		
+This study	Slate Islands	PI32-1	PI32	SO-CMD-NORTH	143.2	42.0	207.2		-5.8	-72.0	1.45		
+This study	Slate Islands	PI32-2	PI32	SO-CMD-NORTH	151.2	42.0	207.2		-5.8	-94.0	1.4		
+This study	Slate Islands	PI32-3	PI32	SO-CMD-NORTH	184.2	42.0	207.2		-5.8	-65.0	1.2		
+This study	Slate Islands	PI32-4	PI32	SO-CMD-NORTH	129.2	42.0	207.2		-5.8	-94.0	1.4		
+This study	Slate Islands	PI32-5	PI32	SO-CMD-NORTH	109.2	42.0	207.2		-5.8	-60.0	1.4		
+This study	Slate Islands	PI32-6	PI32	SO-CMD-NORTH	168.2	42.0	207.2		-5.8	-70.0	1.3		
+This study	Slate Islands	PI32-7	PI32	SO-CMD-NORTH	138.2	42.0	207.2		-5.8	-54.0	0.7		
+This study	Slate Islands	PI32-8	PI32	SO-CMD-NORTH	139.2	42.0	207.2		-5.8	-51.0	0.65		
+This study	Slate Islands	PI32-9	PI32	SO-CMD-NORTH	138.2	42.0	207.2		-5.8	-51.0	0.6		
+This study	Slate Islands	PI33-1	PI33	SO-CMD-NORTH	160.2	42.0	207.2		-5.8	-62.0	3.4		
+This study	Slate Islands	PI33-2	PI33	SO-CMD-NORTH	164.2	42.0	207.2		-5.8	-45.0	4.1		
+This study	Slate Islands	PI33-3	PI33	SO-CMD-NORTH	148.2	42.0	207.2		-5.8	-57.0	3.3		
+This study	Slate Islands	PI33-5	PI33	SO-CMD-NORTH	127.2	42.0	207.2		-5.8	-64.0	3.5		
+This study	Slate Islands	PI33-6	PI33	SO-CMD-NORTH	117.2	42.0	207.2		-5.8	-36.0	3.6		
+This study	Slate Islands	PI34-1	PI34	SO-CMD-NORTH	31.2	42.0	207.2		-5.8	-50.0	9.8		
+This study	Slate Islands	PI34-2	PI34	SO-CMD-NORTH	159.2	42.0	207.2		-5.8	-62.0	10.5		
+This study	Slate Islands	PI34-3	PI34	SO-CMD-NORTH	46.2	42.0	207.2		-5.8	-53.0	9.7		
+This study	Slate Islands	PI34-4	PI34	SO-CMD-NORTH	46.2	42.0	207.2		-5.8	-47.0	9.7		
+This study	Slate Islands	PI34-5	PI34	SO-CMD-NORTH	60.2	42.0	207.2		-5.8	-61.0	9.9		
+This study	Slate Islands	PI34-6	PI34	SO-CMD-NORTH	63.2	42.0	207.2		-5.8	-50.0	10.7		
+This study	Slate Islands	PI34-7	PI34	SO-CMD-NORTH	161.2	42.0	207.2		-5.8	-81.0	11.6		
+This study	Slate Islands	PI34-8	PI34	SO-CMD-NORTH	64.2	42.0	207.2		-5.8	-32.0	13.3		
+This study	unknown	PI44-1	PI44	SO-CMD-NORTH	110.1	0.0	84.1		-5.9	-43.0	0		
+This study	unknown	PI44-2	PI44	SO-CMD-NORTH	119.1	0.0	84.1		-5.9	-44.0	0		
+This study	unknown	PI44-3	PI44	SO-CMD-NORTH	134.1	0.0	84.1		-5.9	-34.0	0		
+This study	unknown	PI44-4	PI44	SO-CMD-NORTH	119.1	0.0	84.1		-5.9	-36.0	0		
+This study	unknown	PI44-5	PI44	SO-CMD-NORTH	122.1	0.0	84.1		-5.9	-35.0	0		
+This study	unknown	PI44-6	PI44	SO-CMD-NORTH	248.1	0.0	84.1		-5.9	-71.0	0		
+This study	unknown	PI44-7	PI44	SO-CMD-NORTH	247.1	0.0	84.1		-5.9	-73.0	0		
+This study	unknown	PI44-8	PI44	SO-CMD-NORTH	248.1	0.0	84.1		-5.9	-71.0	0		
+This study	unknown	PI44-9	PI44	SO-CMD-NORTH	-6.9	0.0	84.1		-5.9	-28.0	0		
+This study	unknown	PI44-10	PI44	SO-CMD-NORTH	47.1	0.0	84.1		-5.9	-20.0	0		
+This study	unknown	PI44-12	PI44	SO-CMD-NORTH	24.1	0.0	84.1		-5.9	-59.0	0		
+This study	unknown	PI44-13	PI44	SO-CMD-NORTH	17.1	0.0	84.1		-5.9	-66.0	0		
+This study	unknown	PI46-1	PI46	SO-CMD-NORTH	210.1	0.0	84.1		-5.9	-58.0	0		
+This study	unknown	PI46-2	PI46	SO-CMD-NORTH	-83.9	0.0	84.1		-5.9	-25.0	0		
+This study	unknown	PI46-3	PI46	SO-CMD-NORTH	-84.9	0.0	84.1		-5.9	-40.0	0		
+This study	unknown	PI46-4	PI46	SO-CMD-NORTH	-52.9	0.0	84.1		-5.9	-6.0	0		
+This study	unknown	PI46-5	PI46	SO-CMD-NORTH	228.1	0.0	84.1		-5.9	-20.0	0		
+This study	unknown	PI46-6	PI46	SO-CMD-NORTH	183.1	0.0	84.1		-5.9	-56.0	0		
+This study	unknown	PI46-7	PI46	SO-CMD-NORTH	212.1	0.0	84.1		-5.9	-41.0	0		
+This study	unknown	PI46-8	PI46	SO-CMD-NORTH	223.1	0.0	84.1		-5.9	-34.0	0		
+This study	unknown	PI46-9	PI46	SO-CMD-NORTH	176.1	0.0	84.1		-5.9	-74.0	0		
+This study	unknown	PI46-10	PI46	SO-CMD-NORTH	177.1	0.0	84.1		-5.9	-67.0	0		
+This study	unknown	PI46-11	PI46	SO-CMD-NORTH	174.1	0.0	84.1		-5.9	-66.0	0		
+This study	unknown	PI47-1	PI47	SO-CMD-NORTH	233.1	0.0	90.0		0.0	-16.0	0		
+This study	unknown	PI47-2	PI47	SO-CMD-NORTH	251.1	0.0	90.0		0.0	-27.0	0		
+This study	unknown	PI47-3	PI47	SO-CMD-NORTH	224.1	0.0	90.0		0.0	-13.0	0		
+This study	unknown	PI47-4	PI47	SO-CMD-NORTH	113.1	0.0	90.0		0.0	-10.0	0		
+This study	unknown	PI47-5	PI47	SO-CMD-NORTH	48.1	0.0	90.0		0.0	-16.0	0		
+This study	unknown	PI47-6	PI47	SO-CMD-NORTH	60.1	0.0	90.0		0.0	-21.0	0		
+This study	unknown	PI47-7	PI47	SO-CMD-NORTH	188.1	0.0	90.0		0.0	-47.0	0		
+This study	unknown	PI47-8	PI47	SO-CMD-NORTH	198.1	0.0	90.0		0.0	-14.0	0		
+This study	unknown	PI47-9	PI47	SO-CMD-NORTH	238.1	0.0	90.0		0.0	-21.0	0		

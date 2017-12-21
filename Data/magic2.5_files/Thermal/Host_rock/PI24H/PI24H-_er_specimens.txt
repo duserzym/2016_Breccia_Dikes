@@ -1,0 +1,19 @@
+tab 	er_specimens
+er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	unknown	PI24H-16	PI24H	PI24H-16a		1.000e-03
+This study	unknown	PI24H-17	PI24H	PI24H-17a		1.000e-03
+This study	unknown	PI24H-18	PI24H	PI24H-18a		1.000e-03
+This study	unknown	PI24H-19	PI24H	PI24H-19a		1.000e-03
+This study	unknown	PI24H-20	PI24H	PI24H-20a		1.000e-03
+This study	unknown	PI24H-21	PI24H	PI24H-21a		1.000e-03
+This study	unknown	PI24H-22	PI24H	PI24H-22a		1.000e-03
+This study	unknown	PI24H-23	PI24H	PI24H-23a		1.000e-03
+This study	unknown	PI24H-24	PI24H	PI24H-24a		1.000e-03
+This study	unknown	PI24H-25	PI24H	PI24H-25a		1.000e-03
+This study	unknown	PI24H-26	PI24H	PI24H-26a		1.000e-03
+This study	unknown	PI24H-27	PI24H	PI24H-27a		1.000e-03
+This study	unknown	PI24H-28	PI24H	PI24H-28a		1.000e-03
+This study	unknown	PI24H-29	PI24H	PI24H-29a		1.000e-03
+This study	unknown	PI24H-30	PI24H	PI24H-30a		1.000e-03
+This study	unknown	PI24H-31	PI24H	PI24H-31a		1.000e-03
+This study	unknown	PI24H-32	PI24H	PI24H-32a		1.000e-03

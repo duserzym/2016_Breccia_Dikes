@@ -1,0 +1,24 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_comp_n	specimen_comp_name	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_flag	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	unknown	PI46-10	PI46	PI46-10b	PI46-10b:LP-DIR-T	hargrave 2014-10-10 21:38:56	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	853	298	K		1	HT	u	0.4	226.7	l	g	23.5	3.5	26	-1
+	This study	unknown	PI46-10	PI46	PI46-10b	PI46-10b:LP-DIR-T	hargrave 2014-10-10 21:38:56	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	853	298	K		1	HT	u	0.4	97.4	l	g	47.3	3.5	26	0
+	This study	unknown	PI46-11	PI46	PI46-11b	PI46-11b:LP-DIR-T	hargrave 2014-10-10 21:40:45	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	853	448	K		1	HT	u	1.5	212.9	l	g	21.3	3.4	20	-1
+	This study	unknown	PI46-11	PI46	PI46-11b	PI46-11b:LP-DIR-T	hargrave 2014-10-10 21:40:45	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	853	448	K		1	HT	u	1.5	85.6	l	g	59.5	3.4	20	0
+	This study	unknown	PI46-1	PI46	PI46-1b	PI46-1b:LP-DIR-T	hargrave 2014-10-10 21:23:02	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	853	323	K		1	HT	u	2.4	213.3	l	g	8.8	4.2	25	-1
+	This study	unknown	PI46-1	PI46	PI46-1b	PI46-1b:LP-DIR-T	hargrave 2014-10-10 21:23:02	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	853	323	K		1	HT	u	2.4	90.6	l	g	51.4	4.2	25	0
+	This study	unknown	PI46-2	PI46	PI46-2b	PI46-2b:LP-DIR-T	hargrave 2014-10-10 21:24:38	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	853	373	K		1	HT	u	3.0	176.4	l	g	13.0	4.3	23	-1
+	This study	unknown	PI46-2	PI46	PI46-2b	PI46-2b:LP-DIR-T	hargrave 2014-10-10 21:24:38	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	853	373	K		1	HT	u	3.0	91.6	l	g	37.9	4.3	23	0
+	This study	unknown	PI46-3	PI46	PI46-3b	PI46-3b:LP-DIR-T	hargrave 2014-10-10 21:26:16	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	853	473	K		1	HT	u	0.5	185.3	l	g	12.4	2.6	19	-1
+	This study	unknown	PI46-3	PI46	PI46-3b	PI46-3b:LP-DIR-T	hargrave 2014-10-10 21:26:16	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	853	473	K		1	HT	u	0.5	103.6	l	g	52.1	2.6	19	0
+	This study	unknown	PI46-4	PI46	PI46-4b	PI46-4b:LP-DIR-T	hargrave 2014-10-10 21:28:12	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	853	473	K		1	HT	u	0.7	146.0	l	g	46.5	2.1	19	-1
+	This study	unknown	PI46-4	PI46	PI46-4b	PI46-4b:LP-DIR-T	hargrave 2014-10-10 21:28:12	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	853	473	K		1	HT	u	0.7	89.0	l	g	51.4	2.1	19	0
+	This study	unknown	PI46-5	PI46	PI46-5b	PI46-5b:LP-DIR-T	hargrave 2014-10-10 21:29:52	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	853	298	K		1	HT	u	5.2	205.4	l	g	21.8	8.4	26	-1
+	This study	unknown	PI46-5	PI46	PI46-5b	PI46-5b:LP-DIR-T	hargrave 2014-10-10 21:29:52	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	853	298	K		1	HT	u	5.2	79.2	l	g	39.5	8.4	26	0
+	This study	unknown	PI46-6	PI46	PI46-6b	PI46-6b:LP-DIR-T	hargrave 2014-10-10 21:31:32	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	853	473	K		1	HT	u	0.9	224.3	l	g	24.1	2.7	18	-1
+	This study	unknown	PI46-6	PI46	PI46-6b	PI46-6b:LP-DIR-T	hargrave 2014-10-10 21:31:32	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	853	473	K		1	HT	u	0.9	90.7	l	g	50.3	2.7	18	0
+	This study	unknown	PI46-7	PI46	PI46-7b	PI46-7b:LP-DIR-T	hargrave 2014-10-10 21:33:16	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	853	298	K		1	HT	u	1.7	224.7	l	g	28.5	4.4	26	-1
+	This study	unknown	PI46-7	PI46	PI46-7b	PI46-7b:LP-DIR-T	hargrave 2014-10-10 21:33:16	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	853	298	K		1	HT	u	1.7	107.7	l	g	50.3	4.4	26	0
+	This study	unknown	PI46-8	PI46	PI46-8b	PI46-8b:LP-DIR-T	hargrave 2014-10-10 21:35:10	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	853	373	K		1	HT	u	1.2	220.2	l	g	26.8	5.2	23	-1
+	This study	unknown	PI46-8	PI46	PI46-8b	PI46-8b:LP-DIR-T	hargrave 2014-10-10 21:35:10	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	853	373	K		1	HT	u	1.2	104.6	l	g	49.0	5.2	23	0
+	This study	unknown	PI46-9	PI46	PI46-9b	PI46-9b:LP-DIR-T	hargrave 2014-10-10 21:37:03	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	853	348	K		1	HT	u	1.4	225.2	l	g	19.4	1.8	24	-1
+	This study	unknown	PI46-9	PI46	PI46-9b	PI46-9b:LP-DIR-T	hargrave 2014-10-10 21:37:03	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	853	348	K		1	HT	u	1.4	97.6	l	g	46.9	1.8	24	0

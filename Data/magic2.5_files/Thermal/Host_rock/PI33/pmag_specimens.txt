@@ -1,0 +1,32 @@
+tab 	pmag_specimens
+er_analyst_mail_names	er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_experiment_names	magic_instrument_codes	magic_method_codes	magic_software_packages	measurement_step_max	measurement_step_min	measurement_step_unit	specimen_alpha95	specimen_comp_n	specimen_comp_name	specimen_correction	specimen_dang	specimen_dec	specimen_direction_type	specimen_flag	specimen_inc	specimen_mad	specimen_n	specimen_tilt_correction
+	This study	Slate Islands	PI33-1	PI33	PI33-1b	PI33-1b:LP-DIR-T	hargrave 2016-02-14 17:19:41	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	598	373	K		3	MT	u	118.0	234.5	l	g	14.6	33.5	10	-1
+	This study	Slate Islands	PI33-1	PI33	PI33-1b	PI33-1b:LP-DIR-T	hargrave 2016-02-14 17:19:41	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	853	673	K		3	HT	u	14.5	1.1	l	g	31.0	5.6	11	-1
+	This study	Slate Islands	PI33-1	PI33	PI33-1b	PI33-1b:LP-DIR-T	hargrave 2016-02-14 17:19:41	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	948	853	K		3	hem	u	0.9	11.6	l	g	15.5	0.9	8	-1
+	This study	Slate Islands	PI33-1	PI33	PI33-1b	PI33-1b:LP-DIR-T	hargrave 2016-02-14 17:19:41	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	598	373	K		3	MT	u	118.0	67.2	l	g	37.9	33.5	10	0
+	This study	Slate Islands	PI33-1	PI33	PI33-1b	PI33-1b:LP-DIR-T	hargrave 2016-02-14 17:19:41	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	853	673	K		3	HT	u	14.5	161.3	l	g	-31.0	5.6	11	0
+	This study	Slate Islands	PI33-1	PI33	PI33-1b	PI33-1b:LP-DIR-T	hargrave 2016-02-14 17:19:41	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	948	853	K		3	hem	u	0.9	176.1	l	g	-45.0	0.9	8	0
+	This study	Slate Islands	PI33-2	PI33	PI33-2b	PI33-2b:LP-DIR-T	hargrave 2016-02-14 17:22:49	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	623	373	K		3	MT	u	104.4	245.0	l	g	32.8	38.1	11	-1
+	This study	Slate Islands	PI33-2	PI33	PI33-2b	PI33-2b:LP-DIR-T	hargrave 2016-02-14 17:22:49	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	853	723	K		3	HT	u	9.9	12.1	l	g	17.3	6.3	8	-1
+	This study	Slate Islands	PI33-2	PI33	PI33-2b	PI33-2b:LP-DIR-T	hargrave 2016-02-14 17:22:49	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	948	853	K		3	hem	u	2.2	18.8	l	g	7.5	1.9	8	-1
+	This study	Slate Islands	PI33-2	PI33	PI33-2b	PI33-2b:LP-DIR-T	hargrave 2016-02-14 17:22:49	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	623	373	K		3	MT	u	104.4	84.0	l	g	39.4	38.1	11	0
+	This study	Slate Islands	PI33-2	PI33	PI33-2b	PI33-2b:LP-DIR-T	hargrave 2016-02-14 17:22:49	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	853	723	K		3	HT	u	9.9	177.2	l	g	-26.8	6.3	8	0
+	This study	Slate Islands	PI33-2	PI33	PI33-2b	PI33-2b:LP-DIR-T	hargrave 2016-02-14 17:22:49	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	948	853	K		3	hem	u	2.2	187.1	l	g	-34.9	1.9	8	0
+	This study	Slate Islands	PI33-3	PI33	PI33-3b	PI33-3b:LP-DIR-T	hargrave 2016-02-14 17:24:27	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	623	373	K		3	MT	u	87.0	272.8	l	g	29.8	27.6	11	-1
+	This study	Slate Islands	PI33-3	PI33	PI33-3b	PI33-3b:LP-DIR-T	hargrave 2016-02-14 17:24:27	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	853	673	K		3	HT	u	12.4	8.7	l	g	24.7	6.7	11	-1
+	This study	Slate Islands	PI33-3	PI33	PI33-3b	PI33-3b:LP-DIR-T	hargrave 2016-02-14 17:24:27	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	948	853	K		3	hem	u	0.7	17.3	l	g	11.2	0.8	8	-1
+	This study	Slate Islands	PI33-3	PI33	PI33-3b	PI33-3b:LP-DIR-T	hargrave 2016-02-14 17:24:27	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	623	373	K		3	MT	u	87.0	85.1	l	g	13.6	27.6	11	0
+	This study	Slate Islands	PI33-3	PI33	PI33-3b	PI33-3b:LP-DIR-T	hargrave 2016-02-14 17:24:27	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	853	673	K		3	HT	u	12.4	157.5	l	g	-31.7	6.7	11	0
+	This study	Slate Islands	PI33-3	PI33	PI33-3b	PI33-3b:LP-DIR-T	hargrave 2016-02-14 17:24:27	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	948	853	K		3	hem	u	0.7	171.6	l	g	-42.8	0.8	8	0
+	This study	Slate Islands	PI33-5	PI33	PI33-5b	PI33-5b:LP-DIR-T	hargrave 2016-02-14 17:26:01	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	623	373	K		3	MT	u	109.1	242.5	l	g	44.2	38.9	11	-1
+	This study	Slate Islands	PI33-5	PI33	PI33-5b	PI33-5b:LP-DIR-T	hargrave 2016-02-14 17:26:01	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	853	673	K		3	HT	u	19.5	41.8	l	g	35.7	9.0	11	-1
+	This study	Slate Islands	PI33-5	PI33	PI33-5b	PI33-5b:LP-DIR-T	hargrave 2016-02-14 17:26:01	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	948	853	K		3	hem	u	2.1	43.0	l	g	11.3	1.4	8	-1
+	This study	Slate Islands	PI33-5	PI33	PI33-5b	PI33-5b:LP-DIR-T	hargrave 2016-02-14 17:26:01	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	623	373	K		3	MT	u	109.1	74.3	l	g	37.1	38.9	11	0
+	This study	Slate Islands	PI33-5	PI33	PI33-5b	PI33-5b:LP-DIR-T	hargrave 2016-02-14 17:26:01	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	853	673	K		3	HT	u	19.5	161.6	l	g	-16.8	9.0	11	0
+	This study	Slate Islands	PI33-5	PI33	PI33-5b	PI33-5b:LP-DIR-T	hargrave 2016-02-14 17:26:01	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	948	853	K		3	hem	u	2.1	180.9	l	g	-34.0	1.4	8	0
+	This study	Slate Islands	PI33-6	PI33	PI33-6b	PI33-6b:LP-DIR-T	hargrave 2016-02-14 17:27:32	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	573	373	K		3	MT	u	119.5	267.0	l	g	51.9	16.4	9	-1
+	This study	Slate Islands	PI33-6	PI33	PI33-6b	PI33-6b:LP-DIR-T	hargrave 2016-02-14 17:27:32	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	853	673	K		3	HT	u	12.3	54.1	l	g	3.1	6.3	12	-1
+	This study	Slate Islands	PI33-6	PI33	PI33-6b	PI33-6b:LP-DIR-T	hargrave 2016-02-14 17:27:32	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.0	948	853	K		3	hem	u	1.6	57.5	l	g	-14.9	1.6	8	-1
+	This study	Slate Islands	PI33-6	PI33	PI33-6b	PI33-6b:LP-DIR-T	hargrave 2016-02-14 17:27:32	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	573	373	K		3	MT	u	119.5	62.5	l	g	41.0	16.4	9	0
+	This study	Slate Islands	PI33-6	PI33	PI33-6b	PI33-6b:LP-DIR-T	hargrave 2016-02-14 17:27:32	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	853	673	K		3	HT	u	12.3	175.2	l	g	-17.5	6.3	12	0
+	This study	Slate Islands	PI33-6	PI33	PI33-6b	PI33-6b:LP-DIR-T	hargrave 2016-02-14 17:27:32	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.0	948	853	K		3	hem	u	1.6	189.0	l	g	-30.9	1.6	8	0

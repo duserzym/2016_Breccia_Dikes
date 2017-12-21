@@ -1,0 +1,25 @@
+tab 	er_samples
+er_citation_names	er_location_name	er_sample_name	er_site_name	magic_method_codes	sample_azimuth	sample_bed_dip	sample_bed_dip_direction	sample_class	sample_declination_correction	sample_dip	sample_height	sample_lithology	sample_type
+This study	unknown	PI16-1	PI16	SO-CMD-NORTH	237.2	0.0	84.2		-5.8	-72.0	0		
+This study	unknown	PI16-2	PI16	SO-CMD-NORTH	211.2	0.0	84.2		-5.8	-45.0	0		
+This study	unknown	PI16-3	PI16	SO-CMD-NORTH	232.2	0.0	84.2		-5.8	-80.0	0		
+This study	unknown	PI16-4	PI16	SO-CMD-NORTH	242.2	0.0	84.2		-5.8	-59.0	0		
+This study	unknown	PI16-6	PI16	SO-CMD-NORTH	-93.8	0.0	84.2		-5.8	-41.0	0		
+This study	unknown	PI16-7	PI16	SO-CMD-NORTH	-55.8	0.0	84.2		-5.8	-25.0	0		
+This study	unknown	PI16-8	PI16	SO-CMD-NORTH	242.2	0.0	84.2		-5.8	-43.0	0		
+This study	unknown	PI16-9	PI16	SO-CMD-NORTH	-77.8	0.0	84.2		-5.8	-52.0	0		
+This study	unknown	PI16-10	PI16	SO-CMD-NORTH	240.2	0.0	84.2		-5.8	-26.0	0		
+This study	unknown	PI16-11	PI16	SO-CMD-NORTH	236.2	0.0	84.2		-5.8	-54.0	0		
+This study	unknown	PI16-12	PI16	SO-CMD-NORTH	229.2	0.0	84.2		-5.8	-39.0	0		
+This study	unknown	PI16-13	PI16	SO-CMD-NORTH	-77.8	0.0	84.2		-5.8	-32.0	0		
+This study	unknown	PI16-14	PI16	SO-CMD-NORTH	111.2	0.0	84.2		-5.8	-45.0	0		
+This study	unknown	PI16-15	PI16	SO-CMD-NORTH	182.2	0.0	84.2		-5.8	-42.0	0		
+This study	unknown	PI16-16	PI16	SO-CMD-NORTH	254.2	0.0	84.2		-5.8	-39.0	0		
+This study	unknown	PI16-17	PI16	SO-CMD-NORTH	210.2	0.0	84.2		-5.8	-38.0	0		
+This study	unknown	PI16-18	PI16	SO-CMD-NORTH	69.2	0.0	84.2		-5.8	-35.0	0		
+This study	unknown	PI16-19	PI16	SO-CMD-NORTH	83.2	0.0	84.2		-5.8	-22.0	0		
+This study	unknown	PI16-20	PI16	SO-CMD-NORTH	204.2	0.0	84.2		-5.8	-35.0	0		
+This study	unknown	PI16-21	PI16	SO-CMD-NORTH	243.2	0.0	84.2		-5.8	-46.0	0		
+This study	unknown	PI16-22	PI16	SO-CMD-NORTH	237.2	0.0	84.2		-5.8	-33.0	0		
+This study	unknown	PI16-23	PI16	SO-CMD-NORTH	244.2	0.0	84.2		-5.8	-18.0	0		
+This study	unknown	PI16-24	PI16	SO-CMD-NORTH	262.2	0.0	84.2		-5.8	-42.0	0		

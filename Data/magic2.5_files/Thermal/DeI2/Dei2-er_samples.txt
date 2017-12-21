@@ -1,0 +1,8 @@
+tab 	er_samples
+er_citation_names	er_location_name	er_sample_name	er_site_name	magic_method_codes	sample_azimuth	sample_bed_dip	sample_bed_dip_direction	sample_class	sample_declination_correction	sample_dip	sample_height	sample_lithology	sample_type
+This study	unknown	DeI2-1	DeI2	SO-CMD-NORTH	-5.8	0.0	84.2		-5.8	-39.0	0		
+This study	unknown	DeI2-2	DeI2	SO-CMD-NORTH	-1.8	0.0	84.2		-5.8	-27.0	0		
+This study	unknown	DeI2-3	DeI2	SO-CMD-NORTH	-6.8	0.0	84.2		-5.8	-28.0	0		
+This study	unknown	DeI2-4	DeI2	SO-CMD-NORTH	-7.8	0.0	84.2		-5.8	-28.0	0		
+This study	unknown	DeI2-6	DeI2	SO-CMD-NORTH	155.2	0.0	84.2		-5.8	-20.0	0		
+This study	unknown	DeI2-7	DeI2	SO-CMD-NORTH	75.2	0.0	84.2		-5.8	-17.0	0		
