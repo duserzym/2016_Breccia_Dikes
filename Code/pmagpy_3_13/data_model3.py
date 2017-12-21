@@ -5,7 +5,10 @@ import os
 import json
 import pandas as pd
 from pandas import DataFrame
-from pmagpy_3_13 import find_pmag_dir
+try:
+    from pmagpy_3_13 import find_pmag_dir
+except:
+    pass
 
 
 class DataModel(object):
@@ -28,7 +31,10 @@ class DataModel(object):
         Grab the 3.0 data model from the PmagPy/pmagpy directory
         """
         #print("-I- Using cached 3.0 data model")
-        pmag_dir = find_pmag_dir.get_pmag_dir()
+        try:
+            pmag_dir = find_pmag_dir.get_pmag_dir()
+        except:
+            pmag_dir = None
         if pmag_dir is None:
             pmag_dir = '.'
         model_file = os.path.join(pmag_dir, 'pmagpy',
