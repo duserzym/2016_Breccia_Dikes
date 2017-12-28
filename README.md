@@ -11,7 +11,7 @@ Within this Github repository are the following folders:
 ### Code
 This folder contains Jupyter notebook files developed using a Python 2.7 kernel that contain the data analysis used for the paper and the breccia dike cooling model. It also contains the module pmagpy (version 3.4) which is part of the PmagPy software project (https://github.com/PmagPy). The version of PmagPy used for the analysis is included in this repository and imported for use in the notebook for archival purposes.
 
-To run the code in the notebook it is necessary to both download the code from the Github repository and have an installed Python distribution that includes IPython and the other standard scientific python libraries (http://www.scipy.org/). There are good instructions for installing IPython/Jupyter here: http://ipython.org/install.html. Alternatively you can view the notebooks online with the Jupyter nbviewer:
+You can open an interactive notebook directly in your browser by clicking the `Binder` badge above. ***Keep in mind that this is a temporary notebook and will not save any changes you make to the code.*** To run the code in the notebook and preserve any changes it is necessary to both download the code from the Github repository and have an installed Python distribution that includes IPython and the other standard scientific python libraries (http://www.scipy.org/). There are good instructions for installing IPython/Jupyter here: http://ipython.org/install.html. Alternatively you can view the statically rendered (non-interactive) notebooks online with the Jupyter nbviewer:
 
 Paleomagnetic data analysis notebook:
 https://nbviewer.jupyter.org/github/swanson-hysell-group/2016_Breccia_Dikes/blob/master/Code/Breccia_Dike_Data.ipynb
